@@ -1,0 +1,543 @@
+# WizFile
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WizFile 3\n"
+"POT-Creation-Date: 2018-03-13 13:19\n"
+"PO-Revision-Date: 2020-11-10 09:24+1300\n"
+"Last-Translator: Kopejkin <kopejkin.ru@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"Language: uk\n"
+
+#: SelectLanguage.pas:56 supportercode.pas:280 WizFileMain.pas:4230
+msgid "OK"
+msgstr "OK"
+
+#: SelectLanguage.pas:57 supportercode.pas:281 WizFileMain.pas:4231
+msgid "Cancel"
+msgstr "Скасувати"
+
+#: SelectLanguage.pas:58 SelectLanguage.pas:59 WizFileMain.pas:4140
+msgid "Language"
+msgstr "Мова"
+
+#: supportercode.pas:165
+msgid "Invalid Key - Please try again."
+msgstr "Неприпустимий ключ - спробуйте ще раз."
+
+#: supportercode.pas:166
+msgid "It is recommended that you copy and paste your supporter code."
+msgstr "Рекомендовано скопіювати та вставити код прихильника."
+
+#: supportercode.pas:167
+msgid "Only use digits 0 to 9 and letters A to F."
+msgstr "Використовуйте цифри від 0 до 9 та літери від A до F."
+
+#: supportercode.pas:252 WizFileMain.pas:4105
+msgid "Thank you for your support!"
+msgstr "Дякуємо за підтримку!"
+
+#: supportercode.pas:253
+msgid "WizFile will now restart."
+msgstr "Тепер WizFile буде перезавантажено."
+
+#: supportercode.pas:282 WizFileMain.pas:4226
+msgid "Enter Supporter Code"
+msgstr "Введіть код прихильника"
+
+#: supportercode.pas:283
+msgid "Supporter Code"
+msgstr "Код прихильника"
+
+#. warning dialog title
+#: uVistaTaskDialog.pas:228
+msgid "Warning"
+msgstr "Попередження"
+
+#. confirmation dialog title
+#: uVistaTaskDialog.pas:233
+msgid "Confirmation"
+msgstr "Підтвердження"
+
+#. error dialog title
+#: uVistaTaskDialog.pas:238 WizFileMain.pas:1996
+msgid "Error"
+msgstr "Помилка"
+
+#. information dialog title
+#: uVistaTaskDialog.pas:243
+msgid "Information"
+msgstr "Інформація"
+
+#: WizFileMain.pas:994
+msgid "Scanning..."
+msgstr "Сканування..."
+
+#: WizFileMain.pas:994
+msgid "Folders"
+msgstr "Папок"
+
+#: WizFileMain.pas:994 WizFileMain.pas:4172
+msgid "Files"
+msgstr "Файли"
+
+#: WizFileMain.pas:1064
+msgid "GB"
+msgstr "ГБ"
+
+#: WizFileMain.pas:1067
+msgid "MB"
+msgstr "МБ"
+
+#: WizFileMain.pas:1070
+msgid "KB"
+msgstr "КБ"
+
+#: WizFileMain.pas:1075
+msgid "Bytes"
+msgstr "Байт"
+
+#: WizFileMain.pas:1136
+msgid "Selected Files"
+msgstr "Вибрані файли"
+
+#: WizFileMain.pas:1136 WizFileMain.pas:3398
+msgid "Total Size"
+msgstr "Загальний розмір"
+
+#: WizFileMain.pas:1212 WizFileMain.pas:1337 WizFileMain.pas:1584
+msgid "You are about to open"
+msgstr "Ви маєте намір відкрити"
+
+#: WizFileMain.pas:1213
+msgid "Command Prompt windows - are you sure?"
+msgstr "вікна з командним рядком - ви впевнені?"
+
+#: WizFileMain.pas:1338
+msgid "Explorer windows - are you sure?"
+msgstr "вікна Провідника - ви впевнені?"
+
+#: WizFileMain.pas:1585
+msgid "files - are you sure?"
+msgstr "файли - ви впевнені?"
+
+#. FileName := FDir;
+#: WizFileMain.pas:1706 WizFileMain.pas:1721
+msgid "Select Folder"
+msgstr "Виберіть папку"
+
+#. YMMV
+#: WizFileMain.pas:1708
+msgid "Select"
+msgstr "Вибрати"
+
+#. we have an update!
+#: WizFileMain.pas:2310
+msgid "An update is available"
+msgstr "Доступна нова версія"
+
+#: WizFileMain.pas:2311
+msgid "Click on the \"View Update\" button to learn more."
+msgstr "Натисніть кнопку \"Оновлення\", щоб дізнатися більше."
+
+#. if tag set then display error if any
+#: WizFileMain.pas:2318
+msgid "No update found."
+msgstr "Оновлень не знайдено."
+
+#. if tag set then display error if any
+#: WizFileMain.pas:2330
+msgid "Error checking for updates:"
+msgstr "Помилка перевірки оновлень:"
+
+#: WizFileMain.pas:2716
+msgid "64 bit"
+msgstr "64-біт"
+
+#: WizFileMain.pas:2718
+msgid "32 bit"
+msgstr "32-біт"
+
+#: WizFileMain.pas:3192
+msgid "Loading file list..."
+msgstr "Завантаження списку файлів..."
+
+#. if TotFilesNum <> 0 then
+#: WizFileMain.pas:3397
+msgid "files"
+msgstr "файлів"
+
+#: WizFileMain.pas:4121
+msgid "File"
+msgstr "Файл"
+
+#: WizFileMain.pas:4122
+msgid "Options"
+msgstr "Опції"
+
+#: WizFileMain.pas:4123 WizFileMain.pas:4151
+msgid "Refresh"
+msgstr "Оновити"
+
+#: WizFileMain.pas:4124
+msgid "New Instance"
+msgstr "Новий екземпляр"
+
+#: WizFileMain.pas:4125
+msgid "Explore Folder"
+msgstr "Дослідити папку"
+
+#: WizFileMain.pas:4126
+msgid "Command Prompt Here"
+msgstr "Командний рядок з цієї папки"
+
+#: WizFileMain.pas:4127
+msgid "Copy Path"
+msgstr "Копіювати шлях"
+
+#: WizFileMain.pas:4128
+msgid "Delete (to Recycle Bin)"
+msgstr "Видалити (у Кошик)"
+
+#: WizFileMain.pas:4129
+msgid "Delete (No undelete possible)"
+msgstr "Видалити (без можливості відновлення)"
+
+#: WizFileMain.pas:4130
+msgid "Exit"
+msgstr "Вихід"
+
+#: WizFileMain.pas:4132
+msgid "Display Dynamic values"
+msgstr "Динамічні значення"
+
+#: WizFileMain.pas:4133
+msgid "Display Byte values"
+msgstr "Значення у байтах"
+
+#: WizFileMain.pas:4134
+msgid "Display KB values"
+msgstr "Значення у КБ"
+
+#: WizFileMain.pas:4135
+msgid "Display MB values"
+msgstr "Значення у МБ"
+
+#: WizFileMain.pas:4136
+msgid "Display GB values"
+msgstr "Значення у ГБ"
+
+#: WizFileMain.pas:4146
+msgid "View Update"
+msgstr "Оновлення"
+
+#: WizFileMain.pas:4147
+msgid "Dismiss"
+msgstr "Відхилити"
+
+#: WizFileMain.pas:4148
+msgid "Check for updates"
+msgstr "Перевіряти наявність оновлень"
+
+#: WizFileMain.pas:4149
+msgid "Check for updates now"
+msgstr "Перевірити наявність оновлень"
+
+#: WizFileMain.pas:4152
+msgid "Cancel Scan"
+msgstr "Скасувати"
+
+#: WizFileMain.pas:4175
+msgid "Clear"
+msgstr "Очистити"
+
+#: WizFileMain.pas:4176
+msgid "Match file name only"
+msgstr "Збігається лише ім'я"
+
+#: WizFileMain.pas:4177
+msgid "(Fast)"
+msgstr "(Швидко)"
+
+#: WizFileMain.pas:4178
+msgid "Match entire path"
+msgstr "Збігається весь шлях"
+
+#: WizFileMain.pas:4179
+msgid "(Warning: can be slow!)"
+msgstr "(Попередження: Можливе уповільнення!)"
+
+#: WizFileMain.pas:4180
+msgid "Max files to display:"
+msgstr "Максимум файлів:"
+
+#: WizFileMain.pas:4182
+msgid "(Selecting ALL can be very slow!)"
+msgstr "(Відображення ВСІх файлів може бути дуже повільним!)"
+
+#: WizFileMain.pas:4184
+msgid "ALL"
+msgstr "ВСІ"
+
+#: WizFileMain.pas:4189
+msgid "File Name"
+msgstr "Ім'я файлу та шлях"
+
+#: WizFileMain.pas:4190
+msgid "Path"
+msgstr "Шлях"
+
+#: WizFileMain.pas:4191
+msgid "Size"
+msgstr "Розмір"
+
+#: WizFileMain.pas:4192
+msgid "Allocated"
+msgstr "Виділено"
+
+#: WizFileMain.pas:4193
+msgid "Modified"
+msgstr "Змінено"
+
+#: WizFileMain.pas:4194
+msgid "Attributes"
+msgstr "Атрибути"
+
+#: WizFileMain.pas:4196
+msgid "About"
+msgstr "Про програму"
+
+#: WizFileMain.pas:4199
+msgid "If you use WizFile commercially or you'd just like to support the freeware community then please make a donation by clicking on the Donate button at the top right of the screen. Thank you! :)"
+msgstr "Якщо маєте бажання підтримати подальший розвиток програми або ви використовуєте WizFile у комерційній діяльності, натисніть Donate вгорі вікна.  Дякуємо! :)"
+
+#: WizFileMain.pas:4201
+msgid "What is WizFile?"
+msgstr "Що таке WizFile?"
+
+#: WizFileMain.pas:4202
+msgid "WizFile is a very fast file search utility that can find files on your hard drive almost instantly."
+msgstr "WizFile - блискавично діюча утиліта пошуку файлів на жорсткому диску."
+
+#: WizFileMain.pas:4203
+msgid "The entire file system can be quickly sorted by name, size or date."
+msgstr "Всю файлову систему можна швидко відсортувати за іменем, розміром та датою."
+
+#: WizFileMain.pas:4207
+msgid "What makes WizFile so fast?"
+msgstr "Що робить WizFile таким швидким?"
+
+#: WizFileMain.pas:4209
+msgid "When scanning NTFS formatted hard drives (most modern hard drives use this format), WizFile reads the hard drive's Master File Table (MFT) directly from the disk."
+msgstr "Під час сканування жорстких дисків, що відформатовані у NTFS (найпопулярніший формат для сучасних дисків), WizFile читає Головну файлову таблицю (Master File Table - MFT) безпосередньо з жорсткого диска."
+
+#: WizFileMain.pas:4210
+msgid "The MFT is a special hidden file used by the NTFS file system to keep track of all files and folders on a hard drive. Scanning for files this way completely bypasses the operating system (Windows) and provides a huge performance boost."
+msgstr "MFT - спеціальний прихований файл, що використовується файловою системою NTFS для відстеження усіх файлів та папок на жорсткому диску. Під час сканування програма не використовує Windows, що забезпечує їй нечувану продуктивність."
+
+#: WizFileMain.pas:4212
+msgid "WizFile currently only supports NTFS formatted hard drives."
+msgstr "WizFile в даний час підтримує тільки жорсткі диски відформатовані у NTFS."
+
+#: WizFileMain.pas:4214
+msgid "Please visit the Antibody Software website for more great software, such as:"
+msgstr "Відвідайте сайт Antibody Software, щоб випробувати інші продукти:"
+
+#: WizFileMain.pas:4215 WizFileMain.pas:4219
+msgid "(click for more information)"
+msgstr "(Натисніть для отримання додаткової інформації)"
+
+#: WizFileMain.pas:4216
+msgid "A powerful yet easy to use web gallery downloading tool. It supports most of the popular image hosting sites (such as flickr, facebook, Google image search, imgur, deviantart etc.)."
+msgstr "Потужний, але простий у використанні засіб для завантаження веб-галереї. Підтримується більшість популярних хостингів зображень (flickr, imagevenue, facebook, deviantart та інші)."
+
+#: WizFileMain.pas:4217
+msgid "It doesn't require any complicated setup or project files - it just works."
+msgstr "Не потребує складного встановлення чи файлів проекту - просто працює."
+
+#: WizFileMain.pas:4220
+msgid "A keyboard enhancement utility that makes it easy to type accented and other special Unicode characters on a standard US/UK keyboard using easy to remember keyboard shortcuts."
+msgstr "Спрощення введення акцентованих та інших спецсимволів Unicode на стандартній клавіатурі (US/UK). Використовуються легкі сполучення клавіш."
+
+#: WizFileMain.pas:4221
+msgid "For example, to type an à (a with grave accent), you press Ctrl+` then press a. These shortcuts work from any Windows application."
+msgstr "Наприклад, щоб ввести à (літеру a з діакритичним знаком), потрібно натиснути Ctrl+`, потім - a. Сполучення працюють у будь-якому застосунку Windows."
+
+#. btnDonate.Hint := _( 'Help support WizFile development by making a donation' );
+#: WizFileMain.pas:4224
+msgid "Help support WizFile development by making a donation"
+msgstr "Підтримайте розвиток WizFile, зробивши пожертву"
+
+#: WizFileMain.pas:4225
+msgid "(You can hide the Donate button by making a donation)"
+msgstr "(Cховайте кнопку Donate, зробивши пожертву)"
+
+#: WizFileMain.pas:4228 WizFileMain.pas:4229
+msgid "Select Drives"
+msgstr "Вибрати диски"
+
+msgid "Scan"
+msgstr "Аналіз"
+
+#: WizFileMain.pas:4543
+msgid "Rescan Drives"
+msgstr "Повторно відсканувати диски"
+
+#: WizFileMain.pas:4578
+msgid "No matching files"
+msgstr "Немає відповідних файлів"
+
+msgid "Start with Windows"
+msgstr "Запускати разом з Windows"
+
+#: WizFileMain.pas:4836
+msgid "Rename"
+msgstr "Перейменувати"
+
+#: WizFileMain.pas:4837
+msgid "Monitor file system for changes"
+msgstr "Відстежувати зміни у файловій системі"
+
+#: WizFileMain.pas:4838
+msgid "Minimize to tray when closed"
+msgstr "Ховати в трей після закриття"
+
+msgid "Add Folder"
+msgstr "Додати папку"
+
+msgid "Auto scan USB drives when connected"
+msgstr "Автосканування підключених USB-накопичувачів"
+
+msgid "Remove Folder"
+msgstr "Видалити папку"
+
+#: "<drive/folder>" is included within
+msgid "is included within"
+msgstr "входить до складу"
+
+msgid "They cannot both be selected."
+msgstr "Виберіть якийсь один елемент."
+
+msgid "Filters"
+msgstr "Фільтри"
+
+msgid "Filter Name"
+msgstr "Ім'я фільтру"
+
+msgid "Filter"
+msgstr "Фільтр"
+
+msgid "Add"
+msgstr "Додати"
+
+msgid "Edit"
+msgstr "Редагувати"
+
+msgid "Remove"
+msgstr "Видалити"
+
+msgid "Reset"
+msgstr "Скинути"
+
+msgid "Audio"
+msgstr "Аудіо"
+
+msgid "Video"
+msgstr "Відео"
+
+msgid "Image"
+msgstr "Зображення"
+
+msgid "Compressed"
+msgstr "Стиснуті"
+
+msgid "Document"
+msgstr "Документи"
+
+msgid "Executable"
+msgstr "Виконувані"
+
+msgid "Monitor folder size"
+msgstr "Визначати розміри папок"
+
+msgid "Clear search when minimized"
+msgstr "Очистити пошук у разі згортання"
+
+msgid "<ALL TYPES>"
+msgstr "<ВСІ ТИПИ>"
+
+msgid "<ALL SIZES>"
+msgstr "<ВСІ РОЗМІРИ>"
+
+msgid "Gigantic (>4GB)"
+msgstr "Гігантський (>4ГБ)"
+
+msgid "Huge (1-4GB)"
+msgstr "Величезний (1-4ГБ)"
+
+msgid "Large (128MB - 1GB)"
+msgstr "Великий (128МБ - 1ГБ)"
+
+msgid "Medium (1-128MB)"
+msgstr "Середній (1-128МБ)"
+
+msgid "Small (16KB - 1MB)"
+msgstr "Малий (16КБ - 1МБ)"
+
+msgid "Tiny (0-16KB)"
+msgstr "Крихітний (0-16КБ)"
+
+msgid "Empty (0KB)"
+msgstr "Порожній (0КБ)"
+
+msgid "<ALL TIMES>"
+msgstr "<ВЕСЬ ЧАС>"
+
+msgid "Today"
+msgstr "Сьогодня"
+
+msgid "Last 7 days"
+msgstr "Останні 7 днів"
+
+msgid "Last 14 days"
+msgstr "Останні 14 днів"
+
+msgid "Last 30 days"
+msgstr "Останні 30 днів"
+
+msgid "30-90 days old"
+msgstr "30-90 днів"
+
+msgid "90+ days old"
+msgstr "90+ днів"
+
+msgid "Launch applications as administrator"
+msgstr "Запустити з правами адміністратора"
+
+msgid "UI Theme"
+msgstr "Тема інтерфейсу"
+
+msgid "Auto"
+msgstr "Авто"
+
+msgid "Light"
+msgstr "Світла"
+
+msgid "Dark"
+msgstr "Темна"
+
+msgid "Clear and Reset Filters"
+msgstr "Очистити та скинути всі фільтри"
+
+msgid "Windows Explorer context menu"
+msgstr "Контекстне меню Провідника Windows"
+
+msgid "Cut"
+msgstr "Bирізати"
+
+msgid "Copy"
+msgstr "Скопіювати"

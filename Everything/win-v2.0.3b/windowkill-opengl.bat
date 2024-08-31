@@ -1,0 +1,1 @@
+windowkill-vulkan.exe --rendering-driver opengl3

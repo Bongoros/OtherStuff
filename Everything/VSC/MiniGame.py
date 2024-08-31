@@ -1,0 +1,7 @@
+input("What old is you? ")
+print("Ok,well.")
+input("Do you want to play the game? ")
+print("You Can Surrender...")
+input("Okay.Your exercise is draw me a square.\n\n")
+print("Stop Trying You Won't Succeed.")
+print("Just Do Not Be Offended...\n But I Have To Go.")

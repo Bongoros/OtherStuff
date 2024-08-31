@@ -1,0 +1,546 @@
+# WizFile
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WizFile 3\n"
+"POT-Creation-Date: 2018-03-13 13:19\n"
+"PO-Revision-Date: 2020-11-06 08:49+1300\n"
+"Last-Translator: maboroshin <pc.genkaku.in>\n"
+"Language-Team: Donkichirou <donkichirou@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja_JP\n"
+
+#: SelectLanguage.pas:56 supportercode.pas:280 WizFileMain.pas:4230
+msgid "OK"
+msgstr "OK"
+
+#: SelectLanguage.pas:57 supportercode.pas:281 WizFileMain.pas:4231
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: SelectLanguage.pas:58 SelectLanguage.pas:59 WizFileMain.pas:4140
+msgid "Language"
+msgstr "言語"
+
+#: supportercode.pas:165
+msgid "Invalid Key - Please try again."
+msgstr "キーが無効です - もう一度お試しください。"
+
+#: supportercode.pas:166
+msgid "It is recommended that you copy and paste your supporter code."
+msgstr "サポーターコードをコピー＆ペーストすることをお勧めします。"
+
+#: supportercode.pas:167
+msgid "Only use digits 0 to 9 and letters A to F."
+msgstr "0〜9の数字とA〜Fの文字のみを使用してください。"
+
+#: supportercode.pas:252 WizFileMain.pas:4105
+msgid "Thank you for your support!"
+msgstr "ご支援ありがとうございます！"
+
+#: supportercode.pas:253
+msgid "WizFile will now restart."
+msgstr "WizFileを再起動します。"
+
+#: supportercode.pas:282 WizFileMain.pas:4226
+msgid "Enter Supporter Code"
+msgstr "サポーターコードを入力"
+
+#: supportercode.pas:283
+msgid "Supporter Code"
+msgstr "サポーターコード"
+
+#. warning dialog title
+#: uVistaTaskDialog.pas:228
+msgid "Warning"
+msgstr "警告"
+
+#. confirmation dialog title
+#: uVistaTaskDialog.pas:233
+msgid "Confirmation"
+msgstr "確認"
+
+#. error dialog title
+#: uVistaTaskDialog.pas:238 WizFileMain.pas:1996
+msgid "Error"
+msgstr "エラー"
+
+#. information dialog title
+#: uVistaTaskDialog.pas:243
+msgid "Information"
+msgstr "情報"
+
+#: WizFileMain.pas:994
+msgid "Scanning..."
+msgstr "スキャン中..."
+
+#: WizFileMain.pas:994
+msgid "Folders"
+msgstr "フォルダ"
+
+#: WizFileMain.pas:994 WizFileMain.pas:4172
+msgid "Files"
+msgstr "ファイル数"
+
+#: WizFileMain.pas:1064
+msgid "GB"
+msgstr "GB"
+
+#: WizFileMain.pas:1067
+msgid "MB"
+msgstr "MB"
+
+#: WizFileMain.pas:1070
+msgid "KB"
+msgstr "KB"
+
+#: WizFileMain.pas:1075
+msgid "Bytes"
+msgstr "バイト"
+
+#: WizFileMain.pas:1136
+msgid "Selected Files"
+msgstr "選択ファイル"
+
+#: WizFileMain.pas:1136 WizFileMain.pas:3398
+msgid "Total Size"
+msgstr "合計サイズ"
+
+#: WizFileMain.pas:1212 WizFileMain.pas:1337 WizFileMain.pas:1584
+msgid "You are about to open"
+msgstr "バージョン情報を開く"
+
+#: WizFileMain.pas:1213
+msgid "Command Prompt windows - are you sure?"
+msgstr "コマンドプロンプトウィンドウ - 間違いありませんか？"
+
+#: WizFileMain.pas:1338
+msgid "Explorer windows - are you sure?"
+msgstr "エクスプローラのウィンドウ - 間違いありませんか？"
+
+#: WizFileMain.pas:1585
+msgid "files - are you sure?"
+msgstr "ファイル - 間違いありませんか？"
+
+#. FileName := FDir;
+#: WizFileMain.pas:1706 WizFileMain.pas:1721
+msgid "Select Folder"
+msgstr "フォルダの選択"
+
+#. YMMV
+#: WizFileMain.pas:1708
+msgid "Select"
+msgstr "選択"
+
+#. we have an update!
+#: WizFileMain.pas:2310
+msgid "An update is available"
+msgstr "最新版があります"
+
+#: WizFileMain.pas:2311
+msgid "Click on the \"View Update\" button to learn more."
+msgstr "詳細は、「アップデートの表示」ボタンをクリックしてください。"
+
+#. if tag set then display error if any
+#: WizFileMain.pas:2318
+msgid "No update found."
+msgstr "更新はありません。"
+
+#. if tag set then display error if any
+#: WizFileMain.pas:2330
+msgid "Error checking for updates:"
+msgstr "アップデートの確認中にエラーが発生しました:"
+
+#: WizFileMain.pas:2716
+msgid "64 bit"
+msgstr "64 ビット"
+
+#: WizFileMain.pas:2718
+msgid "32 bit"
+msgstr "32 ビット"
+
+#: WizFileMain.pas:3192
+msgid "Loading file list..."
+msgstr "ファイル一覧を読み込み中..."
+
+#. if TotFilesNum <> 0 then
+#: WizFileMain.pas:3397
+msgid "files"
+msgstr "ファイル"
+
+#: WizFileMain.pas:4121
+msgid "File"
+msgstr "ファイル"
+
+#: WizFileMain.pas:4122
+msgid "Options"
+msgstr "オプション"
+
+#: WizFileMain.pas:4123 WizFileMain.pas:4151
+msgid "Refresh"
+msgstr "情報の更新"
+
+#: WizFileMain.pas:4124
+msgid "New Instance"
+msgstr "新しいインスタンス"
+
+#: WizFileMain.pas:4125
+msgid "Explore Folder"
+msgstr "エクスプローラーで開く"
+
+#: WizFileMain.pas:4126
+msgid "Command Prompt Here"
+msgstr "コマンドプロンプトで開く"
+
+#: WizFileMain.pas:4127
+msgid "Copy Path"
+msgstr "パスのコピー"
+
+#: WizFileMain.pas:4128
+msgid "Delete (to Recycle Bin)"
+msgstr "削除 (ごみ箱へ)"
+
+#: WizFileMain.pas:4129
+msgid "Delete (No undelete possible)"
+msgstr "削除 (元に戻せません)"
+
+#: WizFileMain.pas:4130
+msgid "Exit"
+msgstr "終了"
+
+#: WizFileMain.pas:4132
+msgid "Display Dynamic values"
+msgstr "単位を自動で表示"
+
+#: WizFileMain.pas:4133
+msgid "Display Byte values"
+msgstr "バイト単位で表示"
+
+#: WizFileMain.pas:4134
+msgid "Display KB values"
+msgstr "KB単位で表示"
+
+#: WizFileMain.pas:4135
+msgid "Display MB values"
+msgstr "MB単位で表示"
+
+#: WizFileMain.pas:4136
+msgid "Display GB values"
+msgstr "GB単位で表示"
+
+#: WizFileMain.pas:4146
+msgid "View Update"
+msgstr "更新を表示"
+
+#: WizFileMain.pas:4147
+msgid "Dismiss"
+msgstr "非表示"
+
+#: WizFileMain.pas:4148
+msgid "Check for updates"
+msgstr "アップデートの確認"
+
+#: WizFileMain.pas:4149
+msgid "Check for updates now"
+msgstr "今すぐアップデートを確認"
+
+#: WizFileMain.pas:4152
+#, fuzzy
+msgid "Cancel Scan"
+msgstr "キャンセル"
+
+#: WizFileMain.pas:4175
+msgid "Clear"
+msgstr "クリア"
+
+#: WizFileMain.pas:4176
+msgid "Match file name only"
+msgstr "ファイル名のみに一致"
+
+#: WizFileMain.pas:4177
+msgid "(Fast)"
+msgstr "(高速)"
+
+#: WizFileMain.pas:4178
+msgid "Match entire path"
+msgstr "パスも含めて一致"
+
+#: WizFileMain.pas:4179
+msgid "(Warning: can be slow!)"
+msgstr "(警告: 遅くなることがあります！)"
+
+#: WizFileMain.pas:4180
+msgid "Max files to display:"
+msgstr "最大ファイル表示数:"
+
+#: WizFileMain.pas:4182
+msgid "(Selecting ALL can be very slow!)"
+msgstr "(「すべて」を選択すると非常に遅くなることがあります！)"
+
+#: WizFileMain.pas:4184
+msgid "ALL"
+msgstr "すべて"
+
+#: WizFileMain.pas:4189
+msgid "File Name"
+msgstr "ファイル名"
+
+#: WizFileMain.pas:4190
+msgid "Path"
+msgstr "パス"
+
+#: WizFileMain.pas:4191
+msgid "Size"
+msgstr "サイズ"
+
+#: WizFileMain.pas:4192
+msgid "Allocated"
+msgstr "割り当て"
+
+#: WizFileMain.pas:4193
+msgid "Modified"
+msgstr "更新日時"
+
+#: WizFileMain.pas:4194
+msgid "Attributes"
+msgstr "属性"
+
+#: WizFileMain.pas:4196
+msgid "About"
+msgstr "バージョン情報"
+
+#: WizFileMain.pas:4199
+msgid "If you use WizFile commercially or you'd just like to support the freeware community then please make a donation by clicking on the Donate button at the top right of the screen. Thank you! :)"
+msgstr "もし WizFile を営利目的で使用していたり、またはこのフリーウェアのコミュニティを支援したい場合には、ウィンドウ右上の寄付 (Donate) ボタンをクリックして寄付をお願いします！(*'ω'*)"
+
+#: WizFileMain.pas:4201
+msgid "What is WizFile?"
+msgstr "WizFile って？"
+
+#: WizFileMain.pas:4202
+msgid "WizFile is a very fast file search utility that can find files on your hard drive almost instantly."
+msgstr "WizFile は、ハードディスクにあるファイルを瞬時に見つけることができる、非常に高速なファイル検索ツールです。"
+
+#: WizFileMain.pas:4203
+msgid "The entire file system can be quickly sorted by name, size or date."
+msgstr "見つかったファイル全体の表示順をファイル名、サイズ、日付によって、素早く並び替えできます。検索語に * ワイルドカード、?  何か1文字、半角空白 AND検索、| OR検索も使えます。"
+
+#: WizFileMain.pas:4207
+msgid "What makes WizFile so fast?"
+msgstr "WizFile が高速なのはどうして？"
+
+#: WizFileMain.pas:4209
+msgid "When scanning NTFS formatted hard drives (most modern hard drives use this format), WizFile reads the hard drive's Master File Table (MFT) directly from the disk."
+msgstr "NTFS 形式でフォーマットされたハードディスク（最近のハードディスクはほとんどこの形式です）をスキャンすると、WizFile はドライブのマスターファイルテーブル (MFT) をディスクから直接読み込みます。"
+
+#: WizFileMain.pas:4210
+msgid "The MFT is a special hidden file used by the NTFS file system to keep track of all files and folders on a hard drive. Scanning for files this way completely bypasses the operating system (Windows) and provides a huge performance boost."
+msgstr "MFT は、NTFS のファイルシステムで使用される特別な隠しファイルで、そのドライブ上のすべてのファイルとフォルダを追跡します。 この方法でファイルを検索すると、オペレーティングシステム (Windows) の関与がまったくないため、検索速度は大幅に向上します。"
+
+#: WizFileMain.pas:4212
+msgid "WizFile currently only supports NTFS formatted hard drives."
+msgstr "WizFile は現在、NTFSフォーマットのハードディスクのみに対応しています。"
+
+#: WizFileMain.pas:4214
+msgid "Please visit the Antibody Software website for more great software, such as:"
+msgstr "Antibody Software のウェブサイトでほかの素晴らしいソフトウェアもお試しください:"
+
+#: WizFileMain.pas:4215 WizFileMain.pas:4219
+msgid "(click for more information)"
+msgstr "(詳細はここをクリック)"
+
+#: WizFileMain.pas:4216
+msgid "A powerful yet easy to use web gallery downloading tool. It supports most of the popular image hosting sites (such as flickr, facebook, Google image search, imgur, deviantart etc.)."
+msgstr "パワフルで使いやすい画像サイトのダウンロードツールです。人気のある画像ホスティングサイトのほとんどに対応しています（flickr、Facebook、Google 画像検索、imgur、deviantart など）。"
+
+#: WizFileMain.pas:4217
+msgid "It doesn't require any complicated setup or project files - it just works."
+msgstr "複雑な設定やプロジェクトファイルは不要です。簡単に動きます。"
+
+#: WizFileMain.pas:4220
+msgid "A keyboard enhancement utility that makes it easy to type accented and other special Unicode characters on a standard US/UK keyboard using easy to remember keyboard shortcuts."
+msgstr "キーボード拡張ツールで、標準的な英/米配列のキーボードの環境にて、覚えやすいキーボードショートカットによってアクセント記号や特殊な Unicode 文字が簡単に入力できるようにします。"
+
+#: WizFileMain.pas:4221
+msgid "For example, to type an à (a with grave accent), you press Ctrl+` then press a. These shortcuts work from any Windows application."
+msgstr "たとえば、à （重アクセントの a）を入力するのに、Ctrl + ` を押してから a を押します。 こうしたショートカットは、どんな Windowsアプリケーションでも使えます。"
+
+#. btnDonate.Hint := _( 'Help support WizFile development by making a donation' );
+#: WizFileMain.pas:4224
+msgid "Help support WizFile development by making a donation"
+msgstr "寄付をして WizFileの開発を支援"
+
+#: WizFileMain.pas:4225
+msgid "(You can hide the Donate button by making a donation)"
+msgstr "(寄付ボタンは寄付により非表示にできます)"
+
+#: WizFileMain.pas:4228 WizFileMain.pas:4229
+msgid "Select Drives"
+msgstr "ドライブの選択"
+
+msgid "Scan"
+msgstr "スキャン"
+
+#: WizFileMain.pas:4543
+msgid "Rescan Drives"
+msgstr "ドライブを再スキャン"
+
+#: WizFileMain.pas:4578
+msgid "No matching files"
+msgstr "一致ファイルなし"
+
+msgid "Start with Windows"
+msgstr "Windows 起動時に実行"
+
+#: WizFileMain.pas:4836
+msgid "Rename"
+msgstr "名前を変更"
+
+#: WizFileMain.pas:4837
+msgid "Monitor file system for changes"
+msgstr "ファイルの変更を反映"
+
+#: WizFileMain.pas:4838
+msgid "Minimize to tray when closed"
+msgstr "閉じたらシステムトレイに最小化"
+
+msgid "Add Folder"
+msgstr "フォルダーの追加"
+
+msgid "Auto scan USB drives when connected"
+msgstr "接続されたUSBドライブを自動的にスキャン"
+
+msgid "Remove Folder"
+msgstr "フォルダの除去"
+
+#: "<drive/folder>" is included within
+#, fuzzy
+msgid "is included within"
+msgstr "に含まれる"
+
+msgid "They cannot both be selected."
+msgstr "両方を選択することはできません。"
+
+msgid "Filters"
+msgstr "フィルタ"
+
+msgid "Filter Name"
+msgstr "フィルタ名"
+
+msgid "Filter"
+msgstr "フィルタ"
+
+msgid "Add"
+msgstr "追加"
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Remove"
+msgstr "削除"
+
+msgid "Reset"
+msgstr "初期化"
+
+msgid "Audio"
+msgstr "音声"
+
+msgid "Video"
+msgstr "映像"
+
+msgid "Image"
+msgstr "画像"
+
+msgid "Compressed"
+msgstr "圧縮ファイル"
+
+msgid "Document"
+msgstr "文書"
+
+msgid "Executable"
+msgstr "実行可能ファイル"
+
+msgid "Monitor folder size"
+msgstr "フォルダのサイズの変動を反映"
+
+msgid "Clear search when minimized"
+msgstr "最小化時に検索語をクリア"
+
+msgid "<ALL TYPES>"
+msgstr "<すべての種類>"
+
+msgid "<ALL SIZES>"
+msgstr "<すべてのサイズ>"
+
+msgid "Gigantic (>4GB)"
+msgstr "極大 (>4GB)"
+
+msgid "Huge (1-4GB)"
+msgstr "巨大 (1-4GB)"
+
+msgid "Large (128MB - 1GB)"
+msgstr "大 (128MB - 1GB)"
+
+msgid "Medium (1-128MB)"
+msgstr "中 (1-128MB)"
+
+msgid "Small (16KB - 1MB)"
+msgstr "小 (16KB - 1MB)"
+
+msgid "Tiny (0-16KB)"
+msgstr "極小 (0-16KB)"
+
+msgid "Empty (0KB)"
+msgstr "空 (0KB)"
+
+msgid "<ALL TIMES>"
+msgstr "<すべての日時>"
+
+msgid "Today"
+msgstr "今日"
+
+msgid "Last 7 days"
+msgstr "最近7日間"
+
+msgid "Last 14 days"
+msgstr "最近14日間"
+
+msgid "Last 30 days"
+msgstr "最近30日間"
+
+msgid "30-90 days old"
+msgstr "30-90日"
+
+msgid "90+ days old"
+msgstr "90日以上前"
+
+msgid "Launch applications as administrator"
+msgstr "管理者権限で実行"
+
+msgid "UI Theme"
+msgstr "UI テーマ"
+
+msgid "Auto"
+msgstr "自動"
+
+msgid "Light"
+msgstr "ライト"
+
+msgid "Dark"
+msgstr "ダーク"
+
+msgid "Clear and Reset Filters"
+msgstr "クリアし絞り込みも初期化"
+
+msgid "Windows Explorer context menu"
+msgstr "Windows エクスプローラーの右クリックメニュー"
+
+msgid "Cut"
+msgstr "切り取り"
+
+msgid "Copy"
+msgstr "コピー"

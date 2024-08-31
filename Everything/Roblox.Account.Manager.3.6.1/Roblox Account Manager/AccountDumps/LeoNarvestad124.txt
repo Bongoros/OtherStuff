@@ -1,0 +1,24 @@
+Username: LeoNarvestad124
+UserId: 4818421539
+Robux: 0
+Account Age: UNKNOWN
+Email Status: {"emailAddress":"l*********@kameili.com","verified":true,"canBypassPasswordForEmailUpdate":true}
+User Info: {
+  "description": "",
+  "created": "2023-07-16T12:11:05.47Z",
+  "isBanned": false,
+  "externalAppDisplayName": null,
+  "hasVerifiedBadge": false,
+  "id": 4818421539,
+  "name": "LeoNarvestad124",
+  "displayName": "RV_ZxcPixell"
+}
+Other: {
+  "UserID": 4818421539,
+  "UserName": "LeoNarvestad124",
+  "RobuxBalance": 0,
+  "ThumbnailUrl": "https://tr.rbxcdn.com/30DAY-Avatar-C6C91B9808852B8C2C7A2971563327DE-Png/352/352/Avatar/Png/noFilter",
+  "IsAnyBuildersClubMember": false,
+  "IsPremium": false
+}
+Fields: {}

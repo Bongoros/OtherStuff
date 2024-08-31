@@ -1,0 +1,24 @@
+Username: Dasha05833
+UserId: 5249518987
+Robux: 7
+Account Age: UNKNOWN
+Email Status: {"emailAddress":null,"verified":false,"canBypassPasswordForEmailUpdate":true}
+User Info: {
+  "description": "Stolen Account.\nCry Dasha.",
+  "created": "2023-11-20T10:56:56.12Z",
+  "isBanned": false,
+  "externalAppDisplayName": null,
+  "hasVerifiedBadge": false,
+  "id": 5249518987,
+  "name": "Dasha05833",
+  "displayName": "NTF_ZxcPopaKaka228"
+}
+Other: {
+  "UserID": 5249518987,
+  "UserName": "Dasha05833",
+  "RobuxBalance": 7,
+  "ThumbnailUrl": "https://tr.rbxcdn.com/30DAY-Avatar-DA840AE3098A3A76DF91BBD2E9F3F3BC-Png/352/352/Avatar/Png/noFilter",
+  "IsAnyBuildersClubMember": false,
+  "IsPremium": false
+}
+Fields: {}

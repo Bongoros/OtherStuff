@@ -1,0 +1,80 @@
+Weapon Codes=====================================================================================================================
+/BIGBOOMBOOM - spawns a nuclear bomb (shares cooldown with /THEOBLITERATOR and /BABARREL, initial cooldown of 24 hours) Recommended to use THEOBLITERATOR and BABARREL before using BIGBOOMBOOM
+
+/THEOBLITERATOR - gives Limited Mini Nukinator {10 shots} (shares cooldown with /BIGBOOMBOOM and /BABARREL, initial cooldown of 15 minutes)
+
+/BABARREL - gives Double Explosive Barrels (shares cooldown with /BIGBOOMBOOM and /THEOBLITERATOR, initial cooldown of 15 minutes) (Spawns two Explosive Barrels rather than only one.) (Would be better off using Explosive Floppa, doesnt have a limited use or cooldown.)
+
+/FLOPPAGUN - gives Floppa Gun (has two modes: RPG and LASER)
+
+/WHATTHEFLOPBOOM - gives Explosive Floppa (basically Explosive Barrel but better)
+
+/RAININGTACOS - gives Taco (plays the raining tacos song and drops one explosive taco towards the ground every click)
+
+Random Object Codes==============================================================================================================
+/MAXWELL - gives placeable Maxwell the Cat (has a cooldown of 1200 seconds)
+
+/ILOVECHEESE - gives Cheese
+
+/BOOMCOLA - gives Boom cola (explodes you on use, causing your demise)
+
+/SINGINGCAT - gives Cat (sings when used)
+
+/FARTUN - gives Fart Gun (plays sfx) [yes its FARTUN without the g]
+
+Visual/Auditory Codes============================================================================================================
+/MURCHIK - cat png appears on screen with sound of cat saying "im cold" in background
+
+/FUTURISTICLOOK - changes ingame text font
+
+/ICANTSEE - increases brightness
+
+/AWESOME - makes your screen rainbow
+
+/TOASTED - deepfries visuals
+
+/NINETEENS - duller visuals
+
+/KIRIGGAMAY - trolled
+
+/IFARDED - plays sfx
+
+/POGGERS - plays sfx
+
+/HAHAHAHAHAHAHA - plays sfx
+
+/ABRACADABRA - plays sfx
+
+Movement Codes===================================================================================================================
+/FLYME - grants you flight
+
+/ISHOWSPEED - makes you run fast (may be removed in the future)
+
+/KANGAROO - makes you jump high (may be removed in the future)
+
+/YEETMEPLS - flings you in random direction
+
+/IMANEXPLOITERLOL - makes you a walking ragdoll for some reason
+
+Other Codes======================================================================================================================
+/HOWTOPLAY - tutorial
+/IMLOSTHELP - teleports you to spawn
+
+/SURFACEME - teleports you to the surface
+
+/AMONGUS - displays message "WHEN THE IMPOSTOR IS SUS 😳"
+
+/ILIKETHISGAME - displays message "THANK YOU"
+
+/IHATETHISGAME - displays message "Why do you hate this game?" (one of the responses to the question is a chunk of of the bee movie script lol)
+
+/HOMELESS - removes all tools from inventory
+
+/GOODBYECRUELWORLD - kills you
+
+/HESOYAM - easter egg
+
+Expired Codes====================================================================================================================
+/OHIOBOMB (replaced with /BIGBOOMBOOM
+
+/TOBETASERVER (No longer works)

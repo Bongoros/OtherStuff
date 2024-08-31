@@ -1,0 +1,17 @@
+https://discord.gg/jPJThPH657
+
+https://discord.com/api/oauth2/authorize?client_id=1151985656290086983&permissions=2146958847&scope=bot
+
+
+# 🔗 Eclipse — Telegram:
+## https://t.me/eclipse_telegram
+# 🔗 Eclipse — Discord Bot: 
+https://discord.gg/jPJThPH657
+
+------------------
+wick
+
+https://discord.com/oauth2/authorize?response_type=code&scope=bot+identify+guilds+applications.commands&client_id=536991182035746816&redirect_uri=https://dashboard.wickbot.com/api/auth/callback&permissions=8
+
+
+https://discord.new/fDTv3ftCeHNV

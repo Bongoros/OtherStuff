@@ -1,0 +1,82 @@
+-ESP-
+{
+  "DFFlagDebugVisualizationImprovements": "True",
+  "DFFlagDebugVisualizeAllPropertyChanges": "True",
+  "DFFlagDebugVisualizerTrackRotationPredictions": "True",
+  "DFFlagDebugEnableInterpolationVisualizer": "True"
+}
+------------------------------------------------------------------------------------------------------------------------
+-invis-
+{ "DFIntS2PhysicsSenderRate": "-30" }
+------------------------------------------------------------------------------------------------------------------------
+-noclip-
+{ "DFFlagAssemblyExtentsExpansionStudHundredth": "-50" }
+------------------------------------------------------------------------------------------------------------------------
+-keystrokes-
+FFlagDebugTextBoxServiceShowOverlay true
+------------------------------------------------------------------------------------------------------------------------
+-super jump-
+{ "DFIntNewRunningBaseGravityReductionFactorHundredth": "1500" }
+------------------------------------------------------------------------------------------------------------------------
+-selfview-
+{ "FFlagCoreGuiTypeSelfViewPresent": "False" }
+------------------------------------------------------------------------------------------------------------------------
+-Humanoid-
+{ "DFFlagDebugDrawBroadPhaseAABBs": "True" }
+------------------------------------------------------------------------------------------------------------------------
+-No Internet Disconnect-
+{ "DFFlagDebugDisableTimeoutDisconnect": "True" }
+------------------------------------------------------------------------------------------------------------------------
+-Disable Ingame Purchases-
+{ "DFFlagOrder66": "True" }
+------------------------------------------------------------------------------------------------------------------------
+-Part Touch-
+{ "FFlagDebugHumanoidRendering": "True" }
+------------------------------------------------------------------------------------------------------------------------
+-Chunks-
+{ "FFlagDebugLightGridShowChunks": "True" }
+------------------------------------------------------------------------------------------------------------------------
+-Zoom-
+{ "FIntCameraMaxZoomDistance": "9999" }
+------------------------------------------------------------------------------------------------------------------------
+-Blur-
+{ "FIntRobloxGuiBlurIntensity": "0" }
+------------------------------------------------------------------------------------------------------------------------
+-Optimization-
+{ "DFIntDebugFRMQualityLevelOverride": "7" }
+------------------------------------------------------------------------------------------------------------------------
+-Optimization2-
+{
+"DFIntCSGLevelOfDetailSwitchingDistance": 250,
+"DFIntCSGLevelOfDetailSwitchingDistanceL12": 500,
+"DFIntCSGLevelOfDetailSwitchingDistanceL23": 750,
+"DFIntCSGLevelOfDetailSwitchingDistanceL34": 1000,
+
+"DFFlagTextureQualityOverrideEnabled": true,
+"DFIntTextureQualityOverride": 2,
+
+"DFIntDebugFRMQualityLevelOverride": 7,
+
+"FFlagCoreGuiTypeSelfViewPresent": false,
+"FFlagInGameMenuV1FullScreenTitleBar": false,
+"FIntFullscreenTitleBarTriggerDelayMillis": 3600000,
+
+"FIntRenderShadowIntensity": 0,
+"FFlagDisablePostFx": true,
+
+"FFlagDebugDisableTelemetryEphemeralCounter": true,
+"FFlagDebugDisableTelemetryEphemeralStat": true,
+"FFlagDebugDisableTelemetryEventIngest": true,
+"FFlagDebugDisableTelemetryPoint": true,
+"FFlagDebugDisableTelemetryV2Counter": true,
+"FFlagDebugDisableTelemetryV2Event": true,
+"FFlagDebugDisableTelemetryV2Stat": true
+}
+------------------------------------------------------------------------------------------------------------------------
+-Links-
+https://web.archive.org/web/20240221081758/https://github.com/devstacking/Epic-Fast-Flags-List
+
+https://github.com/FastFlags/FastFlags-Collective
+
+https://www.youtube.com/watch?v=UvXRRojyEq4
+------------------------------------------------------------------------------------------------------------------------

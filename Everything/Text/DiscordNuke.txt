@@ -1,0 +1,32 @@
+https://discord.com/oauth2/authorize?client_id=1217251239285358662&permissions=8&scope=bot
+3526
+darkkatukas
+discord.gg/darkkatukas
+
+--------------------
+https://discord.com/invite/pon
+
+https://discord.com/api/oauth2/authorize?client_id=1198505520127033454&permissions=8&scope=bot
+https://discord.com/oauth2/authorize?client_id=1218525548528140308&permissions=70368744177655&scope=bot
+--------------------->Better
+https://discord.gg/QcnXPhHFPD - Invite
+https://www.youtube.com/watch?v=JWdVAagrEH0
+https://discord.com/oauth2/authorize?client_id=1236282742979825697 - Auto Crash
+https://discord.com/oauth2/authorize?client_id=1235936507370668102 - Crash
+
+Команды:
+ Префикс: >
+  admin - Выдать ВАМ роль с правами администратора
+  adminall - Выдать ВСЕМ роль с правами администратора
+  banall - Забанить всех
+  channels - Спам каналами
+  crash - Авто-краш
+  deletechannels - Удалить все каналы
+  deleteemojis - Удалить все эмодзи
+  deleteroles - Удалить все роли
+  dmall - Спам в лс ВСЕМ (Включая вас.)
+  kickall - Кикнуть всех с сервера (Включая вас.)
+  nuke - Авто-краш без спама
+  rename - Ренейм сервера.
+  roles - Спам ролями
+  spam - Спам во все каналы

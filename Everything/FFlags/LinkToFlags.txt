@@ -1,0 +1,1 @@
+https://github.com/rbxflags/Flags/blob/main/ClientAppSettings.json

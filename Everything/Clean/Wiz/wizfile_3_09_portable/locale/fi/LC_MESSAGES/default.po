@@ -1,0 +1,547 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WizFile\n"
+"POT-Creation-Date: 2018-03-13 13:19\n"
+"PO-Revision-Date: 2021-07-14 18:44+0300\n"
+"Last-Translator: VeikkoM\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Language-Team: vm\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: SelectLanguage.pas:56 supportercode.pas:280 WizFileMain.pas:4230
+msgid "OK"
+msgstr "OK"
+
+#: SelectLanguage.pas:57 supportercode.pas:281 WizFileMain.pas:4231
+msgid "Cancel"
+msgstr "Peruuta"
+
+#: SelectLanguage.pas:58 SelectLanguage.pas:59 WizFileMain.pas:4140
+msgid "Language"
+msgstr "Kieli"
+
+#: supportercode.pas:165
+msgid "Invalid Key - Please try again."
+msgstr "Virheellinen avain - Yritä uudelleen."
+
+#: supportercode.pas:166
+msgid "It is recommended that you copy and paste your supporter code."
+msgstr "On suositeltavaa, että kopioit ja liität tukijakoodisi."
+
+#: supportercode.pas:167
+msgid "Only use digits 0 to 9 and letters A to F."
+msgstr "Käytä vain numeroita 0-9 ja kirjaimia A-F."
+
+#: supportercode.pas:252 WizFileMain.pas:4105
+msgid "Thank you for your support!"
+msgstr "Kiitos tuestasi!"
+
+#: supportercode.pas:253
+msgid "WizFile will now restart."
+msgstr "WizFile käynnistyy nyt uudelleen."
+
+#: supportercode.pas:282 WizFileMain.pas:4226
+msgid "Enter Supporter Code"
+msgstr "Anna tukijakoodi"
+
+#: supportercode.pas:283
+msgid "Supporter Code"
+msgstr "Tukijan koodi"
+
+#. warning dialog title
+#: uVistaTaskDialog.pas:228
+msgid "Warning"
+msgstr "Varoitus"
+
+#. confirmation dialog title
+#: uVistaTaskDialog.pas:233
+msgid "Confirmation"
+msgstr "Vahvistus"
+
+#. error dialog title
+#: uVistaTaskDialog.pas:238 WizFileMain.pas:1996
+msgid "Error"
+msgstr "Virhe"
+
+#. information dialog title
+#: uVistaTaskDialog.pas:243
+msgid "Information"
+msgstr "Tietoja"
+
+#: WizFileMain.pas:994
+msgid "Scanning..."
+msgstr "Skannataan..."
+
+#: WizFileMain.pas:994
+msgid "Folders"
+msgstr "Kansiot"
+
+#: WizFileMain.pas:994 WizFileMain.pas:4172
+msgid "Files"
+msgstr "Tiedostot"
+
+#: WizFileMain.pas:1064
+msgid "GB"
+msgstr "GB"
+
+#: WizFileMain.pas:1067
+msgid "MB"
+msgstr "MB"
+
+#: WizFileMain.pas:1070
+msgid "KB"
+msgstr "KB"
+
+#: WizFileMain.pas:1075
+msgid "Bytes"
+msgstr "Bittiä"
+
+#: WizFileMain.pas:1136
+msgid "Selected Files"
+msgstr "Valitut tiedostot"
+
+#: WizFileMain.pas:1136 WizFileMain.pas:3398
+msgid "Total Size"
+msgstr "Koko yhteensä"
+
+#: WizFileMain.pas:1212 WizFileMain.pas:1337 WizFileMain.pas:1584
+msgid "You are about to open"
+msgstr "Olet aikeissa avata"
+
+#: WizFileMain.pas:1213
+msgid "Command Prompt windows - are you sure?"
+msgstr "Komentorivi-ikkunat - oletko varma?"
+
+#: WizFileMain.pas:1338
+msgid "Explorer windows - are you sure?"
+msgstr "Explorer-ikkunat - oletko varma?"
+
+#: WizFileMain.pas:1585
+msgid "files - are you sure?"
+msgstr "tiedostoa - oletko varma?"
+
+#. FileName := FDir;
+#: WizFileMain.pas:1706 WizFileMain.pas:1721
+msgid "Select Folder"
+msgstr "Valitse kansio"
+
+#. YMMV
+#: WizFileMain.pas:1708
+msgid "Select"
+msgstr "Valitse"
+
+#. we have an update!
+#: WizFileMain.pas:2310
+msgid "An update is available"
+msgstr "Päivitys on saatavilla"
+
+#: WizFileMain.pas:2311
+msgid "Click on the \"View Update\" button to learn more."
+msgstr "Klikkaa \"Näytä päivitys\" -painiketta lisätietojen saamiseksi."
+
+#. if tag set then display error if any
+#: WizFileMain.pas:2318
+msgid "No update found."
+msgstr "Päivitystä ei löytynyt."
+
+#. if tag set then display error if any
+#: WizFileMain.pas:2330
+msgid "Error checking for updates:"
+msgstr "Päivitysten tarkistusvirhe:"
+
+#: WizFileMain.pas:2716
+msgid "64 bit"
+msgstr "64 bit"
+
+#: WizFileMain.pas:2718
+msgid "32 bit"
+msgstr "32 bit"
+
+#: WizFileMain.pas:3192
+msgid "Loading file list..."
+msgstr "Ladataan tiedostoluetteloa..."
+
+#. if TotFilesNum <> 0 then
+#: WizFileMain.pas:3397
+msgid "files"
+msgstr "tiedostoa"
+
+#: WizFileMain.pas:4121
+msgid "File"
+msgstr "Tiedosto"
+
+#: WizFileMain.pas:4122
+msgid "Options"
+msgstr "Asetukset"
+
+#: WizFileMain.pas:4123 WizFileMain.pas:4151
+msgid "Refresh"
+msgstr "Virkistä"
+
+#: WizFileMain.pas:4124
+msgid "New Instance"
+msgstr "Uusi instanssi"
+
+#: WizFileMain.pas:4125
+msgid "Explore Folder"
+msgstr "Tutki kansiota"
+
+#: WizFileMain.pas:4126
+msgid "Command Prompt Here"
+msgstr "Komentorivi täällä"
+
+#: WizFileMain.pas:4127
+msgid "Copy Path"
+msgstr "Kopioi polku"
+
+#: WizFileMain.pas:4128
+msgid "Delete (to Recycle Bin)"
+msgstr "Poista (roskakoriin)"
+
+#: WizFileMain.pas:4129
+msgid "Delete (No undelete possible)"
+msgstr "Poista (poistoa ei voi peruuttaa)"
+
+#: WizFileMain.pas:4130
+msgid "Exit"
+msgstr "Poistu"
+
+#: WizFileMain.pas:4132
+msgid "Display Dynamic values"
+msgstr "Näytä dynaamiset arvot"
+
+#: WizFileMain.pas:4133
+msgid "Display Byte values"
+msgstr "Näytä tavuarvot"
+
+#: WizFileMain.pas:4134
+msgid "Display KB values"
+msgstr "Näytä KB-arvot"
+
+#: WizFileMain.pas:4135
+msgid "Display MB values"
+msgstr "Näytä MB-arvot"
+
+#: WizFileMain.pas:4136
+msgid "Display GB values"
+msgstr "Näytä GB-arvot"
+
+#: WizFileMain.pas:4146
+msgid "View Update"
+msgstr "Näytä päivitys"
+
+#: WizFileMain.pas:4147
+msgid "Dismiss"
+msgstr "Hylkää"
+
+#: WizFileMain.pas:4148
+msgid "Check for updates"
+msgstr "Tarkista päivitykset"
+
+#: WizFileMain.pas:4149
+msgid "Check for updates now"
+msgstr "Tarkista päivitykset nyt"
+
+#: WizFileMain.pas:4152
+msgid "Cancel Scan"
+msgstr "Peruuta skannaus"
+
+#: WizFileMain.pas:4175
+msgid "Clear"
+msgstr "Tyhjennä"
+
+#: WizFileMain.pas:4176
+msgid "Match file name only"
+msgstr "Täsmää vain tiedostonimi"
+
+#: WizFileMain.pas:4177
+msgid "(Fast)"
+msgstr "(Nopea)"
+
+#: WizFileMain.pas:4178
+msgid "Match entire path"
+msgstr "Täsmää koko polku"
+
+#: WizFileMain.pas:4179
+msgid "(Warning: can be slow!)"
+msgstr "(Varoitus: voi olla hidas!)"
+
+#: WizFileMain.pas:4180
+msgid "Max files to display:"
+msgstr "Näytettävät tiedostot:"
+
+#: WizFileMain.pas:4182
+msgid "(Selecting ALL can be very slow!)"
+msgstr "(KAIKEN valitseminen voi olla hyvin hidasta!)"
+
+#: WizFileMain.pas:4184
+msgid "ALL"
+msgstr "KAIKKI"
+
+#: WizFileMain.pas:4189
+msgid "File Name"
+msgstr "Tiedostonimi"
+
+#: WizFileMain.pas:4190
+msgid "Path"
+msgstr "Polku"
+
+#: WizFileMain.pas:4191
+msgid "Size"
+msgstr "Koko"
+
+#: WizFileMain.pas:4192
+msgid "Allocated"
+msgstr "Varaus"
+
+#: WizFileMain.pas:4193
+msgid "Modified"
+msgstr "Muokattu"
+
+#: WizFileMain.pas:4194
+msgid "Attributes"
+msgstr "Määritteet"
+
+#: WizFileMain.pas:4196
+msgid "About"
+msgstr "Tiedot"
+
+#: WizFileMain.pas:4199
+msgid "If you use WizFile commercially or you'd just like to support the freeware community then please make a donation by clicking on the Donate button at the top right of the screen. Thank you! :)"
+msgstr "Jos käytät WizTree-ohjelmaa kaupallisesti tai haluat vain tukea ilmaisohjelmayhteisöä, tee lahjoitus klikkaamalla näytön oikeassa yläkulmassa olevaa Lahjoita-painiketta. Kiitos! :)"
+
+#: WizFileMain.pas:4201
+msgid "What is WizFile?"
+msgstr "Mikä WizTree?"
+
+#: WizFileMain.pas:4202
+msgid "WizFile is a very fast file search utility that can find files on your hard drive almost instantly."
+msgstr "WizFile on erittäin nopea tiedostojen hakuohjelma, joka löytää tiedostot kiintolevyltäsi lähes välittömästi."
+
+#: WizFileMain.pas:4203
+msgid "The entire file system can be quickly sorted by name, size or date."
+msgstr "Koko tiedostojärjestelmä voidaan lajitella nopeasti nimen, koon tai päivämäärän mukaan."
+
+#: WizFileMain.pas:4207
+msgid "What makes WizFile so fast?"
+msgstr "Mikä tekee WizFilestä niin nopean?"
+
+#: WizFileMain.pas:4209
+msgid "When scanning NTFS formatted hard drives (most modern hard drives use this format), WizFile reads the hard drive's Master File Table (MFT) directly from the disk."
+msgstr "Kun skannaat NTFS-muotoisia kiintolevyjä (useimmat nykyaikaiset kiintolevyt käyttävät tätä muotoa), WizTree lukee kiintolevyn Master File Table (MFT) -taulukon suoraan levyltä."
+
+#: WizFileMain.pas:4210
+msgid "The MFT is a special hidden file used by the NTFS file system to keep track of all files and folders on a hard drive. Scanning for files this way completely bypasses the operating system (Windows) and provides a huge performance boost."
+msgstr "MFT on erityinen piilotettu tiedosto, jota NTFS-tiedostojärjestelmä käyttää kiintolevyn kaikkien tiedostojen ja kansioiden seurantaan. Tiedostojen etsiminen tällä tavoin ohittaa täysin käyttöjärjestelmän (Windows) ja tarjoaa huomattavan suorituskyvyn lisäyksen."
+
+#: WizFileMain.pas:4212
+msgid "WizFile currently only supports NTFS formatted hard drives."
+msgstr "WizFile tukee tällä hetkellä vain NTFS-muotoisia kiintolevyjä."
+
+#: WizFileMain.pas:4214
+msgid "Please visit the Antibody Software website for more great software, such as:"
+msgstr "Vieraile Antibody Software -sivustolla, josta löydät lisää hienoja ohjelmistoja, kuten:"
+
+#: WizFileMain.pas:4215 WizFileMain.pas:4219
+msgid "(click for more information)"
+msgstr "(klikkaa lisätietoja)"
+
+#: WizFileMain.pas:4216
+msgid "A powerful yet easy to use web gallery downloading tool. It supports most of the popular image hosting sites (such as flickr, facebook, Google image search, imgur, deviantart etc.)."
+msgstr "Tehokas mutta helppokäyttöinen web-gallerian lataustyökalu. Se tukee useimpia suosittuja kuvahosting-sivustoja (kuten flickr, facebook, Google image search, imgur, deviantart jne.)."
+
+#: WizFileMain.pas:4217
+msgid "It doesn't require any complicated setup or project files - it just works."
+msgstr "Se ei vaadi monimutkaisia asetuksia tai projektitiedostoja - se vain toimii."
+
+#: WizFileMain.pas:4220
+msgid "A keyboard enhancement utility that makes it easy to type accented and other special Unicode characters on a standard US/UK keyboard using easy to remember keyboard shortcuts."
+msgstr "Näppäimistön parannusapuohjelma, jonka avulla on helppo kirjoittaa aksentti- ja muita Unicode-erikoismerkkejä tavallisella Yhdysvaltain ja Yhdistyneen kuningaskunnan näppäimistöllä helposti muistettavien pikanäppäinten avulla."
+
+#: WizFileMain.pas:4221
+msgid "For example, to type an à (a with grave accent), you press Ctrl+` then press a. These shortcuts work from any Windows application."
+msgstr "Jos haluat esimerkiksi kirjoittaa à (a, jossa on painollinen aksentti), paina Ctrl+` ja sitten a. Nämä pikanäppäimet toimivat missä tahansa Windows-sovelluksessa."
+
+#. btnDonate.Hint := _( 'Help support WizFile development by making a donation' );
+#: WizFileMain.pas:4224
+msgid "Help support WizFile development by making a donation"
+msgstr "Auta tukemaan WizTreen kehitystä tekemällä lahjoitus"
+
+#: WizFileMain.pas:4225
+msgid "(You can hide the Donate button by making a donation)"
+msgstr "(Voit piilottaa Donate-painikkeen tekemällä lahjoituksen)"
+
+#: WizFileMain.pas:4228 WizFileMain.pas:4229
+msgid "Select Drives"
+msgstr "Valitse asemat"
+
+msgid "Scan"
+msgstr "Skannaa"
+
+#: WizFileMain.pas:4543
+msgid "Rescan Drives"
+msgstr "Skannaa asemat uudelleen"
+
+#: WizFileMain.pas:4578
+msgid "No matching files"
+msgstr "Ei vastaavia tiedostoja"
+
+msgid "Start with Windows"
+msgstr "Aloita Windowsin kanssa"
+
+#: WizFileMain.pas:4836
+msgid "Rename"
+msgstr "Nimeä uudelleen"
+
+#: WizFileMain.pas:4837
+msgid "Monitor file system for changes"
+msgstr "Tarkkaile tiedostojärjestelmää muutosten varalta"
+
+#: WizFileMain.pas:4838
+msgid "Minimize to tray when closed"
+msgstr "Pienennä ilmoitusalueelle suljettaessa"
+
+msgid "Add Folder"
+msgstr "Lisää hakemisto"
+
+msgid "Auto scan USB drives when connected"
+msgstr "Automaattinen USB-asemien tarkistus, kun kytketty"
+
+msgid "Remove Folder"
+msgstr "Poista kansio"
+
+#: "<drive/folder>" is included within
+msgid "is included within"
+msgstr "sisältyy"
+
+msgid "They cannot both be selected."
+msgstr "Niitä ei voi valita molempia."
+
+msgid "Filters"
+msgstr "Suotimet"
+
+msgid "Filter Name"
+msgstr "Suodattimen nimi"
+
+msgid "Filter"
+msgstr "Suodin"
+
+msgid "Add"
+msgstr "Lisää"
+
+msgid "Edit"
+msgstr "Muokkaa"
+
+msgid "Remove"
+msgstr "Poista"
+
+msgid "Reset"
+msgstr "Palauta"
+
+msgid "Audio"
+msgstr "Ääni"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Image"
+msgstr "Kuva"
+
+msgid "Compressed"
+msgstr "Pakattu"
+
+msgid "Document"
+msgstr "Asiakirja"
+
+msgid "Executable"
+msgstr "Suoritettava"
+
+msgid "Monitor folder size"
+msgstr "Seuraa kansiokokoa"
+
+msgid "Clear search when minimized"
+msgstr "Tyhjennä haku, kun minimoitu"
+
+msgid "<ALL TYPES>"
+msgstr "<KAIKKI TYYPIT>"
+
+msgid "<ALL SIZES>"
+msgstr "<KAIKKI KOOT>"
+
+msgid "Gigantic (>4GB)"
+msgstr "Jättimäinen (>4GB)"
+
+msgid "Huge (1-4GB)"
+msgstr "Valtava (1-4GB)"
+
+msgid "Large (128MB - 1GB)"
+msgstr "Suuri (128MB - 1GB)"
+
+msgid "Medium (1-128MB)"
+msgstr "Keskikokoinen (1-128MB)"
+
+msgid "Small (16KB - 1MB)"
+msgstr "Pieni (16KB - 1MB)"
+
+msgid "Tiny (0-16KB)"
+msgstr "Pikkuruinen (0-16KB)"
+
+msgid "Empty (0KB)"
+msgstr "Tyhjä (0KB)"
+
+msgid "<ALL TIMES>"
+msgstr "<KAIKKI AJAT>"
+
+msgid "Today"
+msgstr "Tänään"
+
+msgid "Last 7 days"
+msgstr "Viim. 7 päivää"
+
+msgid "Last 14 days"
+msgstr "Viimeiset 14 päivää"
+
+msgid "Last 30 days"
+msgstr "Viim. 30 päivää"
+
+msgid "30-90 days old"
+msgstr "30-90 päivää vanha"
+
+msgid "90+ days old"
+msgstr "90+ päivää vanha"
+
+msgid "Launch applications as administrator"
+msgstr "Käynnistä sovellukset järjestelmänvalvojana"
+
+msgid "UI Theme"
+msgstr "Käyttöliittymän teema"
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "Light"
+msgstr "Vaalea"
+
+msgid "Dark"
+msgstr "Tumma"
+
+msgid "Clear and Reset Filters"
+msgstr "Tyhjennä ja nollaa suodattimet"
+
+msgid "Windows Explorer context menu"
+msgstr "Windows Explorerin kontekstivalikko"
+
+msgid "Cut"
+msgstr "Leikkaa"
+
+msgid "Copy"
+msgstr "Kopioi"

@@ -1,0 +1,4 @@
+water -463 76 544
+tonel -481 98 4_17?
+nado -476 X104X 475
+nado pod zemliy -473 X98X 430

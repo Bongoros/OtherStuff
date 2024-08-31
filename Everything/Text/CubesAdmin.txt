@@ -1,0 +1,13 @@
+/c system
+/Godmode
+/Item Noclip
+/Item Admin Dagger
+/Item Admin Chestplate
+/Item Admin Leggings
+/Item Admin Boots
+
+/Bind LeftBracket Item AGENTX222GNUSMAS Noclip
+/Bind RightBracket Item AGENTX222GNUSMAS Admin Dagger
+/Bind RightControl Godmode AGENTX222GNUSMAS
+
+/Item Terminus

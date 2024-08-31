@@ -1,0 +1,543 @@
+# WizFile
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WizFile 3\n"
+"POT-Creation-Date: 2018-03-13 13:19\n"
+"PO-Revision-Date: 2020-11-10 09:17+1300\n"
+"Last-Translator: John-Alex Berglund, Qwerty <antibody@qwerty.no>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"Language: nb\n"
+
+#: SelectLanguage.pas:56 supportercode.pas:280 WizFileMain.pas:4230
+msgid "OK"
+msgstr "OK"
+
+#: SelectLanguage.pas:57 supportercode.pas:281 WizFileMain.pas:4231
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: SelectLanguage.pas:58 SelectLanguage.pas:59 WizFileMain.pas:4140
+msgid "Language"
+msgstr "Språk"
+
+#: supportercode.pas:165
+msgid "Invalid Key - Please try again."
+msgstr "Ugyldig nøkkel - Vennligst prøv igjen."
+
+#: supportercode.pas:166
+msgid "It is recommended that you copy and paste your supporter code."
+msgstr "Vi foreslår at du kopierer og limer inn din støttekode."
+
+#: supportercode.pas:167
+msgid "Only use digits 0 to 9 and letters A to F."
+msgstr "Bruk kun tall fra 0 til 9 og bokstaver fra A til F."
+
+#: supportercode.pas:252 WizFileMain.pas:4105
+msgid "Thank you for your support!"
+msgstr "Takk for din støtte!"
+
+#: supportercode.pas:253
+msgid "WizFile will now restart."
+msgstr "WizFile vil nå starte på nytt."
+
+#: supportercode.pas:282 WizFileMain.pas:4226
+msgid "Enter Supporter Code"
+msgstr "Angi støttekode"
+
+#: supportercode.pas:283
+msgid "Supporter Code"
+msgstr "Støttekode"
+
+#. warning dialog title
+#: uVistaTaskDialog.pas:228
+msgid "Warning"
+msgstr "Advarsel"
+
+#. confirmation dialog title
+#: uVistaTaskDialog.pas:233
+msgid "Confirmation"
+msgstr "Bekreftelse"
+
+#. error dialog title
+#: uVistaTaskDialog.pas:238 WizFileMain.pas:1996
+msgid "Error"
+msgstr "Feil"
+
+#. information dialog title
+#: uVistaTaskDialog.pas:243
+msgid "Information"
+msgstr "Informasjon"
+
+#: WizFileMain.pas:994
+msgid "Scanning..."
+msgstr "Skanner..."
+
+#: WizFileMain.pas:994
+msgid "Folders"
+msgstr "Mapper"
+
+#: WizFileMain.pas:994 WizFileMain.pas:4172
+msgid "Files"
+msgstr "Filer"
+
+#: WizFileMain.pas:1064
+msgid "GB"
+msgstr "GB"
+
+#: WizFileMain.pas:1067
+msgid "MB"
+msgstr "MB"
+
+#: WizFileMain.pas:1070
+msgid "KB"
+msgstr "KB"
+
+#: WizFileMain.pas:1075
+msgid "Bytes"
+msgstr "Byte"
+
+#: WizFileMain.pas:1136
+msgid "Selected Files"
+msgstr "Valgte filer"
+
+#: WizFileMain.pas:1136 WizFileMain.pas:3398
+msgid "Total Size"
+msgstr "Total størrelse"
+
+#: WizFileMain.pas:1212 WizFileMain.pas:1337 WizFileMain.pas:1584
+msgid "You are about to open"
+msgstr "Du er i ferd med å åpne"
+
+#: WizFileMain.pas:1213
+msgid "Command Prompt windows - are you sure?"
+msgstr "Vindu for Kommandolinje - er du sikker?"
+
+#: WizFileMain.pas:1338
+msgid "Explorer windows - are you sure?"
+msgstr "Utforskervindu - er du sikker?"
+
+#: WizFileMain.pas:1585
+msgid "files - are you sure?"
+msgstr "filer - er du sikker?"
+
+#. FileName := FDir;
+#: WizFileMain.pas:1706 WizFileMain.pas:1721
+msgid "Select Folder"
+msgstr "Velg mappe"
+
+#. YMMV
+#: WizFileMain.pas:1708
+msgid "Select"
+msgstr "Velg"
+
+#. we have an update!
+#: WizFileMain.pas:2310
+msgid "An update is available"
+msgstr "En oppdatering er tilgjengelig"
+
+#: WizFileMain.pas:2311
+msgid "Click on the \"View Update\" button to learn more."
+msgstr "Klikk på knappen \"Se etter oppdatering\" for å finne ut mer."
+
+#. if tag set then display error if any
+#: WizFileMain.pas:2318
+msgid "No update found."
+msgstr "Ingen oppdatering funnet."
+
+#. if tag set then display error if any
+#: WizFileMain.pas:2330
+msgid "Error checking for updates:"
+msgstr "Feil ved sjekking av oppdatering:"
+
+#: WizFileMain.pas:2716
+msgid "64 bit"
+msgstr "64 bit"
+
+#: WizFileMain.pas:2718
+msgid "32 bit"
+msgstr "32 bit"
+
+#: WizFileMain.pas:3192
+msgid "Loading file list..."
+msgstr "Laster filliste..."
+
+#. if TotFilesNum <> 0 then
+#: WizFileMain.pas:3397
+msgid "files"
+msgstr "filer"
+
+#: WizFileMain.pas:4121
+msgid "File"
+msgstr "Fil"
+
+#: WizFileMain.pas:4122
+msgid "Options"
+msgstr "Innstillinger"
+
+#: WizFileMain.pas:4123 WizFileMain.pas:4151
+msgid "Refresh"
+msgstr "Oppdater"
+
+#: WizFileMain.pas:4124
+msgid "New Instance"
+msgstr "Ny instans"
+
+#: WizFileMain.pas:4125
+msgid "Explore Folder"
+msgstr "Utforsk mappe"
+
+#: WizFileMain.pas:4126
+msgid "Command Prompt Here"
+msgstr "Åpne kommandovindu her"
+
+#: WizFileMain.pas:4127
+msgid "Copy Path"
+msgstr "Kopier sti"
+
+#: WizFileMain.pas:4128
+msgid "Delete (to Recycle Bin)"
+msgstr "Slett (til papirkurven)"
+
+#: WizFileMain.pas:4129
+msgid "Delete (No undelete possible)"
+msgstr "Slett (ikke mulig å gjenopprette)"
+
+#: WizFileMain.pas:4130
+msgid "Exit"
+msgstr "Avslutt"
+
+#: WizFileMain.pas:4132
+msgid "Display Dynamic values"
+msgstr "Vis verdier som dynamiske"
+
+#: WizFileMain.pas:4133
+msgid "Display Byte values"
+msgstr "Vis verdier i Byte"
+
+#: WizFileMain.pas:4134
+msgid "Display KB values"
+msgstr "Vis verdier i KB"
+
+#: WizFileMain.pas:4135
+msgid "Display MB values"
+msgstr "Vis verdier i MB"
+
+#: WizFileMain.pas:4136
+msgid "Display GB values"
+msgstr "Vis verdier i GB"
+
+#: WizFileMain.pas:4146
+msgid "View Update"
+msgstr "Se etter oppdatering"
+
+#: WizFileMain.pas:4147
+msgid "Dismiss"
+msgstr "Forkast"
+
+#: WizFileMain.pas:4148
+msgid "Check for updates"
+msgstr "Se etter oppdateringer"
+
+#: WizFileMain.pas:4149
+msgid "Check for updates now"
+msgstr "Se etter oppdateringer nå"
+
+#: WizFileMain.pas:4152
+msgid "Cancel Scan"
+msgstr "Avbryt Scan"
+
+#: WizFileMain.pas:4175
+msgid "Clear"
+msgstr "Tøm"
+
+#: WizFileMain.pas:4176
+msgid "Match file name only"
+msgstr "Sammenlikne kun fil&navn"
+
+#: WizFileMain.pas:4177
+msgid "(Fast)"
+msgstr "(Hurtig)"
+
+#: WizFileMain.pas:4178
+msgid "Match entire path"
+msgstr "Sammenlikne hele &stien"
+
+#: WizFileMain.pas:4179
+msgid "(Warning: can be slow!)"
+msgstr "(Advarsel: kan være tregt!)"
+
+#: WizFileMain.pas:4180
+msgid "Max files to display:"
+msgstr "Maksimalt antall filer:"
+
+#: WizFileMain.pas:4182
+msgid "(Selecting ALL can be very slow!)"
+msgstr "(Valg av ALLE kan være veldig tregt!)"
+
+#: WizFileMain.pas:4184
+msgid "ALL"
+msgstr "ALLE"
+
+#: WizFileMain.pas:4189
+msgid "File Name"
+msgstr "Filnavn"
+
+#: WizFileMain.pas:4190
+msgid "Path"
+msgstr "Sti"
+
+#: WizFileMain.pas:4191
+msgid "Size"
+msgstr "Størrelse"
+
+#: WizFileMain.pas:4192
+msgid "Allocated"
+msgstr "Brukt"
+
+#: WizFileMain.pas:4193
+msgid "Modified"
+msgstr "Endret"
+
+#: WizFileMain.pas:4194
+msgid "Attributes"
+msgstr "Egenskaper"
+
+#: WizFileMain.pas:4196
+msgid "About"
+msgstr "Om"
+
+#: WizFileMain.pas:4199
+msgid "If you use WizFile commercially or you'd just like to support the freeware community then please make a donation by clicking on the Donate button at the top right of the screen. Thank you! :)"
+msgstr "Dersom du bruker WizFile kommersielt eller du ønsker å støtte utviklingen, vær vennlig å doner ved å klikke på knappen \"Donate\", i øvre høyre hjørne av vinduet. Takk! :)"
+
+#: WizFileMain.pas:4201
+msgid "What is WizFile?"
+msgstr "Hva er WizFile?"
+
+#: WizFileMain.pas:4202
+msgid "WizFile is a very fast file search utility that can find files on your hard drive almost instantly."
+msgstr "WizFile er et veldig raskt filsøkverktøy som kan finne filer på harddisken din nesten umiddelbart."
+
+#: WizFileMain.pas:4203
+msgid "The entire file system can be quickly sorted by name, size or date."
+msgstr "Hele filsystemet kan raskt sorteres etter navn, størrelse eller dato."
+
+#: WizFileMain.pas:4207
+msgid "What makes WizFile so fast?"
+msgstr "Hva gjør WizFile så rask?"
+
+#: WizFileMain.pas:4209
+msgid "When scanning NTFS formatted hard drives (most modern hard drives use this format), WizFile reads the hard drive's Master File Table (MFT) directly from the disk."
+msgstr "Når WizFile skanner harddisker som er formatert med NTFS (de fleste moderne harddisker bruker dette formatet), leser det harddiskens Master File Table (MFT) direkte fra disken."
+
+#: WizFileMain.pas:4210
+msgid "The MFT is a special hidden file used by the NTFS file system to keep track of all files and folders on a hard drive. Scanning for files this way completely bypasses the operating system (Windows) and provides a huge performance boost."
+msgstr "MFT er en spesiell skjult fil som blir brukt av filsystemet NTFS for å holde orden på alle filer og mapper på harddisken. Ved å skanne etter filer på denne måten omgås operativsystemet (Windows) og gir en enorm hastighetsforbedring."
+
+#: WizFileMain.pas:4212
+msgid "WizFile currently only supports NTFS formatted hard drives."
+msgstr "WizFile støtter for tiden bare NTFS formaterte harddisker."
+
+#: WizFileMain.pas:4214
+msgid "Please visit the Antibody Software website for more great software, such as:"
+msgstr "Vær vennlig å beøske nettstedet Antibody Software for andre flotte programmer, som:"
+
+#: WizFileMain.pas:4215 WizFileMain.pas:4219
+msgid "(click for more information)"
+msgstr "(klikk for mer informasjon)"
+
+#: WizFileMain.pas:4216
+msgid "A powerful yet easy to use web gallery downloading tool. It supports most of the popular image hosting sites (such as flickr, facebook, Google image search, imgur, deviantart etc.)."
+msgstr "Et verktøy for nedlastningsgallerier, som er kraftig og likevel enkelt å bruke . Det støtter de fleste av populære nettsteder for bildelagring (som for eksempel: flickr, facebook, Google bildesøk, imgur, deviantart etc.)."
+
+#: WizFileMain.pas:4217
+msgid "It doesn't require any complicated setup or project files - it just works."
+msgstr "Ingen vanskelige oppsett eller ekstra filer er nødvendig - det bare virker."
+
+#: WizFileMain.pas:4220
+msgid "A keyboard enhancement utility that makes it easy to type accented and other special Unicode characters on a standard US/UK keyboard using easy to remember keyboard shortcuts."
+msgstr "Et verktøy som utvider tastaturet og gjør det enkelt å skrive spesielle Unicode tegn på et standard US/UK tastatur, ved å bruke tastatursnarveier som er lett å huske."
+
+#: WizFileMain.pas:4221
+msgid "For example, to type an à (a with grave accent), you press Ctrl+` then press a. These shortcuts work from any Windows application."
+msgstr "For eksempel: for å skrive en à (a med grave accent), trykker du Ctrl+` og så trykker du a. Disse snarveiene virker i alle Windows programmer."
+
+#. btnDonate.Hint := _( 'Help support WizFile development by making a donation' );
+#: WizFileMain.pas:4224
+msgid "Help support WizFile development by making a donation"
+msgstr "Hjelp oss og støtt utviklingen av WizFile ved å donere"
+
+#: WizFileMain.pas:4225
+msgid "(You can hide the Donate button by making a donation)"
+msgstr "(Knappen for Donasjon vil fjernes når du donerer)"
+
+#: WizFileMain.pas:4228 WizFileMain.pas:4229
+msgid "Select Drives"
+msgstr "Velg stasjoner"
+
+msgid "Scan"
+msgstr "Skann"
+
+#: WizFileMain.pas:4543
+msgid "Rescan Drives"
+msgstr "Gjennomsøk stasjoner på nytt"
+
+#: WizFileMain.pas:4578
+msgid "No matching files"
+msgstr "Ingen matchende filer"
+
+msgid "Start with Windows"
+msgstr "Start med Windows"
+
+#: WizFileMain.pas:4836
+msgid "Rename"
+msgstr "Gi nytt navn"
+
+#: WizFileMain.pas:4837
+msgid "Monitor file system for changes"
+msgstr "Overvåk filsystem for endringer"
+
+#: WizFileMain.pas:4838
+msgid "Minimize to tray when closed"
+msgstr "Minimer til systemstatusfelt ved lukking"
+
+msgid "Add Folder"
+msgstr "Legg til mappe"
+
+msgid "Auto scan USB drives when connected"
+msgstr "Automatisk søk på USB-disker når tilkoblet"
+
+msgid "Remove Folder"
+msgstr "Fjern mappe"
+
+#: "<drive/folder>" is included within
+msgid "is included within"
+msgstr "er inkludert i"
+
+msgid "They cannot both be selected."
+msgstr "Du kan ikke velge begge."
+
+msgid "Filters"
+msgstr "Filtre"
+
+msgid "Filter Name"
+msgstr "Filternavn"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Add"
+msgstr "Legg til"
+
+msgid "Edit"
+msgstr "Rediger"
+
+msgid "Remove"
+msgstr "﻿Fjern"
+
+msgid "Reset"
+msgstr "Tilbakestill treeutvidelse"
+
+msgid "Audio"
+msgstr "Lyd"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Image"
+msgstr "Bilde"
+
+msgid "Compressed"
+msgstr "Komprimert"
+
+msgid "Document"
+msgstr "Dokument"
+
+msgid "Executable"
+msgstr "Kjørbar"
+
+msgid "Monitor folder size"
+msgstr "Overvåk mappestørrelse"
+
+msgid "Clear search when minimized"
+msgstr "Tøm søk når minimert"
+
+msgid "<ALL TYPES>"
+msgstr ""
+
+msgid "<ALL SIZES>"
+msgstr ""
+
+msgid "Gigantic (>4GB)"
+msgstr ""
+
+msgid "Huge (1-4GB)"
+msgstr ""
+
+msgid "Large (128MB - 1GB)"
+msgstr ""
+
+msgid "Medium (1-128MB)"
+msgstr ""
+
+msgid "Small (16KB - 1MB)"
+msgstr ""
+
+msgid "Tiny (0-16KB)"
+msgstr ""
+
+msgid "Empty (0KB)"
+msgstr ""
+
+msgid "<ALL TIMES>"
+msgstr ""
+
+msgid "Today"
+msgstr ""
+
+msgid "Last 7 days"
+msgstr ""
+
+msgid "Last 14 days"
+msgstr ""
+
+msgid "Last 30 days"
+msgstr ""
+
+msgid "30-90 days old"
+msgstr ""
+
+msgid "90+ days old"
+msgstr ""
+
+msgid "Launch applications as administrator"
+msgstr ""
+
+msgid "UI Theme"
+msgstr ""
+
+msgid "Auto"
+msgstr ""
+
+msgid "Light"
+msgstr ""
+
+msgid "Dark"
+msgstr ""
+
+msgid "Clear and Reset Filters"
+msgstr ""
+
+msgid "Windows Explorer context menu"
+msgstr ""
+
+msgid "Cut"
+msgstr ""
+
+msgid "Copy"
+msgstr ""

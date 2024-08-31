@@ -1,0 +1,4 @@
+{
+    "DFFlagPhysicsSkipNonRealTimeHumanoidForceCalc2": "False",
+    "DFIntS2PhysicsSenderRate": "0.5",
+}

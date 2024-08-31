@@ -1,0 +1,156 @@
+AntiBan
+require(2788315378).load(" ",
+{"Asargoven","CarStereo7","NotCrazyExploitz","CarStereo1","Mouse_ee"})
+AntiChat
+require(3059426757).load("[ Content Deleted ]",
+{"Asargoven","CarStereo7","peenlol123","CarStereo1","Mouse_ee"})
+Audio Visualizer
+require(2966240496):Fire("Asargoven")
+Blind Reaper
+require(3083480987).load("Asargoven")
+Brutal Furry
+require(2921581010):Fire("name")
+Bypassed Image
+require(2609492131).load"Asargoven"
+Claws
+require(2976384666).load('Asargoven')
+Country Roads (MML Admin)
+require(2808676257):hack'Asargoven'
+CKBackup Cop
+require(2845370647).uwu(game.Players.Asargoven)
+Crab Rave
+require(2800498919):Run('Asargoven','i baked you a pie')
+Dark Wristbands
+require(2841203226):Fire('Asargoven','i baked you a pie')
+Death Note
+require(2919647358):Fire("name")
+Dev Uzi
+require(2972256508).load("Asargoven")
+Dex
+require(3010581956):Fireplace("Asargoven")
+Draw Tool
+require(3024941794).load("Asargoven")
+Frying Pan
+require(2965793312):Fire'Asargoven'
+Grab Gun
+require(3055800684):Fireplace("Asargoven")
+Grab Knives
+V1 require(2836693511):Fire('Asargoven','i baked you a pie')
+V2 require(2845941230):Fire('Player','i baked you a pie')
+V3 require(2829943043):Run('Asargoven','i baked you a pie')
+V4 require(2845928453):Fire('Asargoven','i baked you a pie')
+Lots of guns
+require(2823974237).giveGuns'Asargoven'
+Hells Door
+require(2841174713):Fire('Asargoven','i baked you a pie')
+Hitler
+require(2931582808):Fire('Urnamehaloser')
+Inferno
+require(2976286678).Inferno('Asargoven')
+Infinite Yield
+require(3091204182)('Asargoven')
+Insanity Powers
+require(2787111216):Run('Asargoven','i baked you a pie')
+Jihad
+require(2974869441).load("Asargoven")
+John Doe
+require(2841156534):Fire('Asargoven','i baked you a pie')
+Keemstar All
+require(2500710590).load"Asargoven"
+Kohls Admin Epix Edition
+require(522666193).giveAdmin("Asargoven")
+Koolaid Man
+require(2923173766):Kermit('Asargoven',game.JobId)
+Krystal Dance
+require(2881162369):Fire('Asargoven','i baked you a pie')
+LUA Hammer
+require(2972284204).load("Asargoven")
+MakerModelLUA's Admin
+require(2500605002).give"Asargoven"
+Memus X
+require(2919871363):Fire("name")
+Mustard Gas
+require(2989312214).load("Asargoven")
+Neptunian V
+require(2698643702):Fire("Asargoven")
+Noob Puncher
+require(2881262129):Fire('Asargoven','i baked you a pie')
+Orb
+require(2966037885 ).load"Asargoven"
+Pistols
+require(2976688768).load('Synasterz')
+Quantom Admin
+require(2848219801):Fire('kermitwashere,ok',"Asargoven")
+Ravage
+require(2971559360).load("Asargoven")
+Red Gunman
+require(2849593796):Fire('Asargoven','i baked you a pie')
+Red Titan
+require(2974204001).load("Asargoven")
+Road Roller
+require(2919371365):Fire("name")
+RoXploit
+require(2972269104).load("Asargoven")
+Shoot
+require(2826823504):Run('Player','i baked you a pie')
+Sin Unleashed
+require(2787132106):Run('Asargoven','i baked you a pie')
+Star Glitcher
+require(2930987220).load('Asargoven')
+Suicide Gun
+require(2971323006):Fire("Asargoven")
+Trap Rifle
+require(2858526948):Fire('Asargoven','i baked you a pie')
+knuckles
+require(2849713774):Fire('Asargoven','i baked you a pie')
+UVG
+require(2505737607).load"Asargoven"
+unexpected item in bagging area
+require(2796959576).Run()
+Original Ultimate Trolling Gui
+require(2979701829):Fire("Asargoven")
+v3rmillion tabs
+require(2972286131).load("Asargoven")
+Kidnap Van
+require(2973851516).load("victemm!!!")
+v a p o r w a v e
+require(2856028839):Fire('Asargoven','i baked you a pie')
+Void
+require(2861694480):Fire('Asargoven')
+Voodoo Child
+require(2797271382):Run('Asargoven','i baked you a pie')
+From this line on, all modules are submissions put in #module-script-submissions
+and some individual put swastikas on every single message... what a meme...
+crazyexploitz06/05/2019
+UTG Glone, credits @Ghostgamer4050
+require(3026164046):Fire("ASIAN_STALIN")
+Topk3k, credits @Ghostgamer4050
+require(03099239207).die("ASIAN_STALIN")
+Want to read all 6 pages?
+Previewing 2 of 6 pages Upload your study docs or become a member.
+View full document
+Thonker's SS, credits @! basic_droz
+require(03218848399).leak() SS Gui, credits @! basic_droz
+require(03213075428).SSGUI("user") Dominoes Pizza map, credits @! basic_droz
+require(03146202699):Fire('pizza') SSA V3, credits @swan
+require(3246932715).load("user")
+topk3k v4, credits @swan
+require(03099239207).die("user") Big ban, credits @swan
+require(2594357090).bban"user" Super SS, credits @swan
+require(3162606395):Fire("user") Pee, credits @Ghostgamer4050
+require(2972136307).load("SYNO666") Lots of modules by @sochi require(3162051000).load("player")­­TESSERACT
+require(3164628599).load("player")­­NEUROTIC
+require(3164653644).load("player")­­DUALDOOM
+require(3164664887).load("player")­­VIOLENTAGENT
+require(3164680895).load("player")­­ARMSTRONGSTYLE
+require(3164692965).load("player")­­SOCIOPATH
+require(3164734245).load("player")­­KARAMBIT
+require(3164748313).load("player")­­SHINI­G4­MI Dominus Venari, credits @Oversimplified
+require(3256686965).load"UrName" Modules by @Ghostgamer4050
+require(2823974237).giveGuns'ASIAN_STALIN' ­ Gun Giver
+require(2985076062).load("ASIAN_STALIN") ­ Thomas the tank
+crazyexploitz06/07/2019
+kermit gui credits @swan
+require(2797382794):Kermit('NAME') module pack by @swan
+Insanity Powers: require(2787111216):Run('NAME','i baked you a pie') Sin Unleashed: require(2787132106):Run('NAME','i baked you a pie') Dualecider: require(2790149731):Run('NAME','i baked you a pie') Unexpected Item: require(2796959576).Run() Voodoo Child: require(2797271382):Run('NAME','i baked you a pie') Kermit Gui: require(2797382794):Kermit('NAME')
+IS GONE!!: require(2800498919):Run('NAME','i baked you a pie') Country Roads Admin: require(2808676257):hack'NAME' Gun Giver: require(2823974237).giveGuns'NAME' School Shooter: require(2826823504):Run('NAME','i baked you a pie')

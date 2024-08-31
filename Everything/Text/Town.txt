@@ -1,0 +1,43 @@
+!s five+coy+blue+heavy+se | !s med | !s def | !s wre | !s lap | !s shov | !s nv
+
+!sts five+coy+blue+heavy+se med def wre lap shov nv
+
+!s ar-10+cl+blue+heavy+se | !s five+coy+blue+heavy+se | !s med | !s def | !s wre | !s lap | !s shov | !s pro | !s nv
+
+!sts ar-10+cl+blue+heavy+se five+coy+blue+heavy+se med def wre lap shov pro nv
+
+!s ar-10+cl+blue+heavy+se | !s five+coy+blue+heavy+se | !s med | !s def | !s wre | !s  lap | !s shov | !s nv | !s mcx+ang+eo+blue
+
+!sts ar-10+cl+blue+heavy+se five+coy+blue+heavy+se med def wre lap shov nv mcx+ang+eo+blue
+
+!s g3a3+heavy+blue+coy+angl
+
+!sts ar-10+cl+blue+heavy+se g3a3+comp+blue+coy+angl five+coy+blue+heavy+se med def wre lap shov nv
+
+!s ar-10+cl+blue+heavy+se | !s g3a3+comp+blue+coy+angl | !s five+coy+blue+heavy+se | !s med | !s def | !s wre | !s  lap | !s shov | !s nv
+
+!sts ar-10+reflex+blue+heavy+se five+coy+tlr+heavy+se med def wre lap shov walther+cl+blue+heavy+se nv
+
+!sts rpk+reflex+blue+heavy+se ar-10+reflex+blue+heavy+se five+coy+tlr+heavy+se med def wre lap shov walther+cl+blue+heavy+se nv
+
+!sts rpk+reflex+blue+heavy+se double+coy+tlr+se five+coy+blue+heavy+se med def shov wre lap walther+cl+blue+heavy+se nv
+
+!sts tmp+reflex+blue+heavy+ex double+coy+tlr+se five+coy+blue+heavy+se med def shov wre lap walther+cl+blue+heavy+se nv
+
+!sts qbz+reflex+green+compen+se tmp+kobra+green+com+ex Desert+cl+com+green+bipod med def shov wre lap walther+cl+blue+heavy+se nv
+
+!sts p9+kobra+gre+comp tmp+kobra+green+com+ex Desert+cl+com+green+bipod med def shov wre lap walther+cl+blue+heavy+se nv
+
+!sts p9+kobra+gre+comp tmp+kobra+green+com+ex five+kobra+tlr+heavy+se med def shov wre lap walther+cl+blue+heavy+se nv
+
+!sts mcx+reflex+green+ang tmp+kobra+green+com+ex five+kobra+tlr+heavy+se med def shov wre lap walther+cl+blue+heavy+se nv
+
+!sts mcx+reflex+green+ang tmp+kobra+green+com+ex five+kobra+tlr+heavy+se med jn+cl+bl+taa+ang def wre lap walther+cl+blue+taa+bip shov nv
+
+!sts mcx+reflex+green+ang tmp+kobra+green+com+ex five+kobra+tlr+heavy+se med steyr+cl+bl+taa+ang def wre lap walther+cl+blue+taa+bip shov nv
+
+!sts mcx+reflex+green+ang doub+kobr+blue+skel five+kobra+tlr+heavy+se med steyr+cl+bl+taa+ang def wre lap walther+cl+blue+taa+bip shov nv
+
+!s CheyTacM200+hunting+Heavy+Ergo+Blue | !s DesertEagle+hea+angl+Blue | !s AK-47+angl+eo+gr+hea+Blue | !sa HCS | !s med | !s nv | !s def | !S LAP | !btools | !s DesertEagle+hea+angl+Blue
+
+!s ball | !s ballisticsv

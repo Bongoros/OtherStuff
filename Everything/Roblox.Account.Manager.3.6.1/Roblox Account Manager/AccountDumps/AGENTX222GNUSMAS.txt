@@ -1,0 +1,17 @@
+Username: AGENTX222GNUSMAS
+UserId: 3234850367
+Robux: 0
+Account Age: UNKNOWN
+Email Status: {"errors":[{"code":0,"message":"Unauthorized"}]}
+User Info: {
+  "description": "Press Ctrl+W For Magic.",
+  "created": "2022-01-16T12:32:16.567Z",
+  "isBanned": false,
+  "externalAppDisplayName": null,
+  "hasVerifiedBadge": false,
+  "id": 3234850367,
+  "name": "AGENTX222GNUSMAS",
+  "displayName": "NTF_Ez0tiX"
+}
+Other: 
+Fields: {}

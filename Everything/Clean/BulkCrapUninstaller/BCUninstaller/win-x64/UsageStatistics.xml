@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UsageStatistics>
+  <Metadata>
+    <ApplicationVersion>5.7.0.0</ApplicationVersion>
+    <SystemVersion>Microsoft Windows NT 10.0.19045.0</SystemVersion>
+    <Is64Bit>true</Is64Bit>
+    <Locale>ru-RU</Locale>
+    <Net>2.0.50727.4927; 3.0.30729.4926; 3.5.30729.4926; 4.8.09037 Full; 4.8.09037 Client; 4.0.0.0 Client</Net>
+    <LaunchCount>7</LaunchCount>
+  </Metadata>
+  <InterfaceStatistics>
+    <PropertiesSidebar />
+    <MainWindow>
+      <uninstallerObjectListView>
+        <Click>22</Click>
+      </uninstallerObjectListView>
+      <installLocationOpenInExplorerContextMenuStripItem>
+        <Click>3</Click>
+      </installLocationOpenInExplorerContextMenuStripItem>
+      <filterEditor1>
+        <Click>2</Click>
+      </filterEditor1>
+      <settingsSidebarPanel>
+        <Click>1</Click>
+      </settingsSidebarPanel>
+      <toolStrip>
+        <Click>3</Click>
+      </toolStrip>
+      <toolStripButtonUninstall>
+        <Click>3</Click>
+      </toolStripButtonUninstall>
+      <groupBox1>
+        <Click>1</Click>
+      </groupBox1>
+      <uninstallListContextMenuStrip>
+        <Click>5</Click>
+      </uninstallListContextMenuStrip>
+      <quietUninstallContextMenuStripItem>
+        <Click>1</Click>
+      </quietUninstallContextMenuStripItem>
+      <uninstallContextMenuStripItem>
+        <Click>2</Click>
+      </uninstallContextMenuStripItem>
+      <openInExplorerContextMenuStripItem>
+        <Click>2</Click>
+      </openInExplorerContextMenuStripItem>
+      <uninstallerLocationOpenInExplorerContextMenuStripItem>
+        <Click>1</Click>
+      </uninstallerLocationOpenInExplorerContextMenuStripItem>
+    </MainWindow>
+    <UninstallProgressWindow>
+      <buttonClose>
+        <Click>5</Click>
+      </buttonClose>
+    </UninstallProgressWindow>
+    <JunkRemoveWindow>
+      <buttonAccept>
+        <Click>6</Click>
+      </buttonAccept>
+      <checkBoxHideLowConfidence>
+        <Click>3</Click>
+      </checkBoxHideLowConfidence>
+      <panel1>
+        <Click>1</Click>
+      </panel1>
+    </JunkRemoveWindow>
+  </InterfaceStatistics>
+</UsageStatistics>

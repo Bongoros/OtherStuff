@@ -1,0 +1,15 @@
+Low 50-250
+Good 300-500
+Super 600-1000
+
+Lag-On Delay-5
+Throttle-On Chance-25.0
+Drop-Random Chance-15.0-50.0
+
+Sending(Outbound)-TP
+Receiving(Inbound)-Time Stop
+
+Lag-On Delay-3000
+Throttle-On Chance-20 TimeFrame-1000
+Drop-on Chance-100
+Inbound-Off(All)

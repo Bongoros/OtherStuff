@@ -1,0 +1,543 @@
+# WizFile
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WizFile 3\n"
+"POT-Creation-Date: 2018-03-13 13:19\n"
+"PO-Revision-Date: 2020-11-10 08:58+1300\n"
+"Last-Translator: th_sjy <th_sjy@163.com>\n"
+"Language-Team: th_sjy <http://www.th-sjy.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"Language: zh\n"
+
+#: SelectLanguage.pas:56 supportercode.pas:280 WizFileMain.pas:4230
+msgid "OK"
+msgstr "确定"
+
+#: SelectLanguage.pas:57 supportercode.pas:281 WizFileMain.pas:4231
+msgid "Cancel"
+msgstr "取消"
+
+#: SelectLanguage.pas:58 SelectLanguage.pas:59 WizFileMain.pas:4140
+msgid "Language"
+msgstr "语言"
+
+#: supportercode.pas:165
+msgid "Invalid Key - Please try again."
+msgstr "无效的密钥 - 请重试."
+
+#: supportercode.pas:166
+msgid "It is recommended that you copy and paste your supporter code."
+msgstr "建议您复制并粘贴您的支持者代码."
+
+#: supportercode.pas:167
+msgid "Only use digits 0 to 9 and letters A to F."
+msgstr "只能使用数字 0 到 9 和字母 A 到 F."
+
+#: supportercode.pas:252 WizFileMain.pas:4105
+msgid "Thank you for your support!"
+msgstr "感谢您的支持!"
+
+#: supportercode.pas:253
+msgid "WizFile will now restart."
+msgstr "WizFile 现在将重新启动."
+
+#: supportercode.pas:282 WizFileMain.pas:4226
+msgid "Enter Supporter Code"
+msgstr "输入支持者代码"
+
+#: supportercode.pas:283
+msgid "Supporter Code"
+msgstr "支持者代码"
+
+#. warning dialog title
+#: uVistaTaskDialog.pas:228
+msgid "Warning"
+msgstr "警告"
+
+#. confirmation dialog title
+#: uVistaTaskDialog.pas:233
+msgid "Confirmation"
+msgstr "确认"
+
+#. error dialog title
+#: uVistaTaskDialog.pas:238 WizFileMain.pas:1996
+msgid "Error"
+msgstr "错误"
+
+#. information dialog title
+#: uVistaTaskDialog.pas:243
+msgid "Information"
+msgstr "信息"
+
+#: WizFileMain.pas:994
+msgid "Scanning..."
+msgstr "正在扫描..."
+
+#: WizFileMain.pas:994
+msgid "Folders"
+msgstr "文件夹"
+
+#: WizFileMain.pas:994 WizFileMain.pas:4172
+msgid "Files"
+msgstr "文件"
+
+#: WizFileMain.pas:1064
+msgid "GB"
+msgstr "GB"
+
+#: WizFileMain.pas:1067
+msgid "MB"
+msgstr "MB"
+
+#: WizFileMain.pas:1070
+msgid "KB"
+msgstr "KB"
+
+#: WizFileMain.pas:1075
+msgid "Bytes"
+msgstr "字节"
+
+#: WizFileMain.pas:1136
+msgid "Selected Files"
+msgstr "已选择文件"
+
+#: WizFileMain.pas:1136 WizFileMain.pas:3398
+msgid "Total Size"
+msgstr "总大小"
+
+#: WizFileMain.pas:1212 WizFileMain.pas:1337 WizFileMain.pas:1584
+msgid "You are about to open"
+msgstr "你即将打开"
+
+#: WizFileMain.pas:1213
+msgid "Command Prompt windows - are you sure?"
+msgstr "命令提示符窗口 - 你确定?"
+
+#: WizFileMain.pas:1338
+msgid "Explorer windows - are you sure?"
+msgstr "资源管理器窗口 - 你确定?"
+
+#: WizFileMain.pas:1585
+msgid "files - are you sure?"
+msgstr "文件 - 你确定?"
+
+#. FileName := FDir;
+#: WizFileMain.pas:1706 WizFileMain.pas:1721
+msgid "Select Folder"
+msgstr "选择文件夹"
+
+#. YMMV
+#: WizFileMain.pas:1708
+msgid "Select"
+msgstr "选择"
+
+#. we have an update!
+#: WizFileMain.pas:2310
+msgid "An update is available"
+msgstr "有可用的更新"
+
+#: WizFileMain.pas:2311
+msgid "Click on the \"View Update\" button to learn more."
+msgstr "点击 \"查看更新\" 按钮了解更多信息."
+
+#. if tag set then display error if any
+#: WizFileMain.pas:2318
+msgid "No update found."
+msgstr "未找到更新."
+
+#. if tag set then display error if any
+#: WizFileMain.pas:2330
+msgid "Error checking for updates:"
+msgstr "检查更新时出错:"
+
+#: WizFileMain.pas:2716
+msgid "64 bit"
+msgstr "64 位"
+
+#: WizFileMain.pas:2718
+msgid "32 bit"
+msgstr "32 位"
+
+#: WizFileMain.pas:3192
+msgid "Loading file list..."
+msgstr "正在加载文件列表..."
+
+#. if TotFilesNum <> 0 then
+#: WizFileMain.pas:3397
+msgid "files"
+msgstr "文件"
+
+#: WizFileMain.pas:4121
+msgid "File"
+msgstr "文件"
+
+#: WizFileMain.pas:4122
+msgid "Options"
+msgstr "选项"
+
+#: WizFileMain.pas:4123 WizFileMain.pas:4151
+msgid "Refresh"
+msgstr "刷新"
+
+#: WizFileMain.pas:4124
+msgid "New Instance"
+msgstr "新实例"
+
+#: WizFileMain.pas:4125
+msgid "Explore Folder"
+msgstr "浏览文件夹"
+
+#: WizFileMain.pas:4126
+msgid "Command Prompt Here"
+msgstr "命令提示符"
+
+#: WizFileMain.pas:4127
+msgid "Copy Path"
+msgstr "复制路径"
+
+#: WizFileMain.pas:4128
+msgid "Delete (to Recycle Bin)"
+msgstr "删除 (到回收站)"
+
+#: WizFileMain.pas:4129
+msgid "Delete (No undelete possible)"
+msgstr "删除 (无法撤消删除)"
+
+#: WizFileMain.pas:4130
+msgid "Exit"
+msgstr "退出"
+
+#: WizFileMain.pas:4132
+msgid "Display Dynamic values"
+msgstr "显示动态值"
+
+#: WizFileMain.pas:4133
+msgid "Display Byte values"
+msgstr "显示字节值"
+
+#: WizFileMain.pas:4134
+msgid "Display KB values"
+msgstr "显示 KB 值"
+
+#: WizFileMain.pas:4135
+msgid "Display MB values"
+msgstr "显示 MB 值"
+
+#: WizFileMain.pas:4136
+msgid "Display GB values"
+msgstr "显示 GB 值"
+
+#: WizFileMain.pas:4146
+msgid "View Update"
+msgstr "查看更新"
+
+#: WizFileMain.pas:4147
+msgid "Dismiss"
+msgstr "驳回"
+
+#: WizFileMain.pas:4148
+msgid "Check for updates"
+msgstr "检查更新"
+
+#: WizFileMain.pas:4149
+msgid "Check for updates now"
+msgstr "现在检查更新"
+
+#: WizFileMain.pas:4152
+msgid "Cancel Scan"
+msgstr "取消扫描"
+
+#: WizFileMain.pas:4175
+msgid "Clear"
+msgstr "清除"
+
+#: WizFileMain.pas:4176
+msgid "Match file name only"
+msgstr "仅匹配文件名"
+
+#: WizFileMain.pas:4177
+msgid "(Fast)"
+msgstr "(快速)"
+
+#: WizFileMain.pas:4178
+msgid "Match entire path"
+msgstr "匹配整个路径"
+
+#: WizFileMain.pas:4179
+msgid "(Warning: can be slow!)"
+msgstr "(警告: 可能很慢!)"
+
+#: WizFileMain.pas:4180
+msgid "Max files to display:"
+msgstr "要显示的最大文件:"
+
+#: WizFileMain.pas:4182
+msgid "(Selecting ALL can be very slow!)"
+msgstr "(选择所有可能会非常慢!)"
+
+#: WizFileMain.pas:4184
+msgid "ALL"
+msgstr "所有"
+
+#: WizFileMain.pas:4189
+msgid "File Name"
+msgstr "文件名称"
+
+#: WizFileMain.pas:4190
+msgid "Path"
+msgstr "路径"
+
+#: WizFileMain.pas:4191
+msgid "Size"
+msgstr "大小"
+
+#: WizFileMain.pas:4192
+msgid "Allocated"
+msgstr "分配"
+
+#: WizFileMain.pas:4193
+msgid "Modified"
+msgstr "修改时间"
+
+#: WizFileMain.pas:4194
+msgid "Attributes"
+msgstr "属性"
+
+#: WizFileMain.pas:4196
+msgid "About"
+msgstr "关于"
+
+#: WizFileMain.pas:4199
+msgid "If you use WizFile commercially or you'd just like to support the freeware community then please make a donation by clicking on the Donate button at the top right of the screen. Thank you! :)"
+msgstr "如果您想将 WizFile 用于商业用途或想支持我们, 请点击右上角的捐赠按钮进行捐赠. 感谢您!"
+
+#: WizFileMain.pas:4201
+msgid "What is WizFile?"
+msgstr "什么是 WizFile?"
+
+#: WizFileMain.pas:4202
+msgid "WizFile is a very fast file search utility that can find files on your hard drive almost instantly."
+msgstr "WizFile 是一款非常快速的文件搜索工具, 可立即在硬盘上找到文件."
+
+#: WizFileMain.pas:4203
+msgid "The entire file system can be quickly sorted by name, size or date."
+msgstr "整个文件系统可按名称、大小或日期快速排序."
+
+#: WizFileMain.pas:4207
+msgid "What makes WizFile so fast?"
+msgstr "WizFile 为什么这么快?"
+
+#: WizFileMain.pas:4209
+msgid "When scanning NTFS formatted hard drives (most modern hard drives use this format), WizFile reads the hard drive's Master File Table (MFT) directly from the disk."
+msgstr "当扫描 NTFS 格式的硬盘 (大多数的现代硬盘都使用此格式) 时, WizFile 直接从磁盘读取硬盘主文件表 (MFT)."
+
+#: WizFileMain.pas:4210
+msgid "The MFT is a special hidden file used by the NTFS file system to keep track of all files and folders on a hard drive. Scanning for files this way completely bypasses the operating system (Windows) and provides a huge performance boost."
+msgstr "MFT 是一个特殊的隐藏文件 用于在硬盘的 NTFS 文件系统中跟踪所有的文件和文件夹. 以这种方式扫描文件完全绕过了 Windows 操作系统, 提供了一个巨大的性能提升."
+
+#: WizFileMain.pas:4212
+msgid "WizFile currently only supports NTFS formatted hard drives."
+msgstr "WizFile 目前仅支持 NTFS 格式的硬盘驱动器."
+
+#: WizFileMain.pas:4214
+msgid "Please visit the Antibody Software website for more great software, such as:"
+msgstr "想了解更多更好的软件请访问 Antibody 软件网站, 例如:"
+
+#: WizFileMain.pas:4215 WizFileMain.pas:4219
+msgid "(click for more information)"
+msgstr "(点击查看更多信息)"
+
+#: WizFileMain.pas:4216
+msgid "A powerful yet easy to use web gallery downloading tool. It supports most of the popular image hosting sites (such as flickr, facebook, Google image search, imgur, deviantart etc.)."
+msgstr "一个功能强大且易于使用的网络库下载工具. 它支持大多数流行的图像托管网站 (例如 flickr, facebook, Google image search, imgur, deviantart 等)."
+
+#: WizFileMain.pas:4217
+msgid "It doesn't require any complicated setup or project files - it just works."
+msgstr "它不需要任何复杂的设置或项目文件."
+
+#: WizFileMain.pas:4220
+msgid "A keyboard enhancement utility that makes it easy to type accented and other special Unicode characters on a standard US/UK keyboard using easy to remember keyboard shortcuts."
+msgstr "一个键盘增强实用工具, 可使用快捷键在键盘上轻松输入带重音符号类型和其它特殊的 Unicode 字符."
+
+#: WizFileMain.pas:4221
+msgid "For example, to type an à (a with grave accent), you press Ctrl+` then press a. These shortcuts work from any Windows application."
+msgstr "例如, 若要键入一个 à (带有严重重音的 a), 请按 Ctrl+a. 这些快捷方式适用于任何 Windows 应用程序."
+
+#. btnDonate.Hint := _( 'Help support WizFile development by making a donation' );
+#: WizFileMain.pas:4224
+msgid "Help support WizFile development by making a donation"
+msgstr "通过捐赠支持 WizFile 的发展"
+
+#: WizFileMain.pas:4225
+msgid "(You can hide the Donate button by making a donation)"
+msgstr "(您可以通过捐赠, 隐藏捐赠按钮)"
+
+#: WizFileMain.pas:4228 WizFileMain.pas:4229
+msgid "Select Drives"
+msgstr "选择驱动器"
+
+msgid "Scan"
+msgstr "扫描"
+
+#: WizFileMain.pas:4543
+msgid "Rescan Drives"
+msgstr "重新扫描驱动器"
+
+#: WizFileMain.pas:4578
+msgid "No matching files"
+msgstr "没有匹配的文件"
+
+msgid "Start with Windows"
+msgstr "随 Windows 启动"
+
+#: WizFileMain.pas:4836
+msgid "Rename"
+msgstr "重命名"
+
+#: WizFileMain.pas:4837
+msgid "Monitor file system for changes"
+msgstr "监视文件系统更改"
+
+#: WizFileMain.pas:4838
+msgid "Minimize to tray when closed"
+msgstr "关闭时最小化到托盘"
+
+msgid "Add Folder"
+msgstr "添加文件夹"
+
+msgid "Auto scan USB drives when connected"
+msgstr "连接时自动扫描 USB 驱动器"
+
+msgid "Remove Folder"
+msgstr "移除文件夹"
+
+#: "<drive/folder>" is included within
+msgid "is included within"
+msgstr "是包括在"
+
+msgid "They cannot both be selected."
+msgstr "不能同时选择它们."
+
+msgid "Filters"
+msgstr "过滤器"
+
+msgid "Filter Name"
+msgstr "过滤器名称"
+
+msgid "Filter"
+msgstr "过滤器"
+
+msgid "Add"
+msgstr "添加"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Remove"
+msgstr "移除"
+
+msgid "Reset"
+msgstr "重置"
+
+msgid "Audio"
+msgstr "音频"
+
+msgid "Video"
+msgstr "视频"
+
+msgid "Image"
+msgstr "图像"
+
+msgid "Compressed"
+msgstr "压缩"
+
+msgid "Document"
+msgstr "文档"
+
+msgid "Executable"
+msgstr "可执行"
+
+msgid "Monitor folder size"
+msgstr "监视文件夹大小"
+
+msgid "Clear search when minimized"
+msgstr "最小化时清除搜索"
+
+msgid "<ALL TYPES>"
+msgstr "<所有类型>"
+
+msgid "<ALL SIZES>"
+msgstr "<所有大小>"
+
+msgid "Gigantic (>4GB)"
+msgstr "巨大 (>4GB)"
+
+msgid "Huge (1-4GB)"
+msgstr "庞大 (1-4GB)"
+
+msgid "Large (128MB - 1GB)"
+msgstr "大 (128MB - 1GB)"
+
+msgid "Medium (1-128MB)"
+msgstr "中 (1-128MB)"
+
+msgid "Small (16KB - 1MB)"
+msgstr "小 (16KB - 1MB)"
+
+msgid "Tiny (0-16KB)"
+msgstr "微小 (0-16KB)"
+
+msgid "Empty (0KB)"
+msgstr "空 (0KB)"
+
+msgid "<ALL TIMES>"
+msgstr "<所有时间>"
+
+msgid "Today"
+msgstr "今天"
+
+msgid "Last 7 days"
+msgstr "最近 7 天"
+
+msgid "Last 14 days"
+msgstr "最近 14 天"
+
+msgid "Last 30 days"
+msgstr "最近 30 天"
+
+msgid "30-90 days old"
+msgstr "30-90 天前"
+
+msgid "90+ days old"
+msgstr "90 天之前"
+
+msgid "Launch applications as administrator"
+msgstr "以管理员身份启动应用程序"
+
+msgid "UI Theme"
+msgstr "UI 主题"
+
+msgid "Auto"
+msgstr "自动"
+
+msgid "Light"
+msgstr "明亮"
+
+msgid "Dark"
+msgstr "黑暗"
+
+msgid "Clear and Reset Filters"
+msgstr "清除并重置过滤器"
+
+msgid "Windows Explorer context menu"
+msgstr "Windows 资源管理器上下文菜单"
+
+msgid "Cut"
+msgstr "剪切"
+
+msgid "Copy"
+msgstr "复制"

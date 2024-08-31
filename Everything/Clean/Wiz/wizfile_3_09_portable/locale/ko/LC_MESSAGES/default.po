@@ -1,0 +1,544 @@
+# WizFile
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WizFile 3\n"
+"POT-Creation-Date: 2018-03-13 13:19\n"
+"PO-Revision-Date: 2022-09-07 10:17+1200\n"
+"Last-Translator: Jaehyung Lee <kolanp@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ko\n"
+
+#: SelectLanguage.pas:56 supportercode.pas:280 WizFileMain.pas:4230
+msgid "OK"
+msgstr "확인"
+
+#: SelectLanguage.pas:57 supportercode.pas:281 WizFileMain.pas:4231
+msgid "Cancel"
+msgstr "취소"
+
+#: SelectLanguage.pas:58 SelectLanguage.pas:59 WizFileMain.pas:4140
+msgid "Language"
+msgstr "언어"
+
+#: supportercode.pas:165
+msgid "Invalid Key - Please try again."
+msgstr "잘못된 키 - 다시 시도하세요."
+
+#: supportercode.pas:166
+msgid "It is recommended that you copy and paste your supporter code."
+msgstr "후원자 코드를 복사해서 붙여넣는 게 좋습니다."
+
+#: supportercode.pas:167
+msgid "Only use digits 0 to 9 and letters A to F."
+msgstr "숫자 0 ~ 9 및 문자 A ~ F만 사용합니다."
+
+#: supportercode.pas:252 WizFileMain.pas:4105
+msgid "Thank you for your support!"
+msgstr "지원해 주셔서 고맙습니다!"
+
+#: supportercode.pas:253
+msgid "WizFile will now restart."
+msgstr "이제 WizFile이 다시 시작됩니다."
+
+#: supportercode.pas:282 WizFileMain.pas:4226
+msgid "Enter Supporter Code"
+msgstr "후원자 코드 입력"
+
+#: supportercode.pas:283
+msgid "Supporter Code"
+msgstr "후원자 코드"
+
+#. warning dialog title
+#: uVistaTaskDialog.pas:228
+msgid "Warning"
+msgstr "경고"
+
+#. confirmation dialog title
+#: uVistaTaskDialog.pas:233
+msgid "Confirmation"
+msgstr "확인"
+
+#. error dialog title
+#: uVistaTaskDialog.pas:238 WizFileMain.pas:1996
+msgid "Error"
+msgstr "오류"
+
+#. information dialog title
+#: uVistaTaskDialog.pas:243
+msgid "Information"
+msgstr "정보"
+
+#: WizFileMain.pas:994
+msgid "Scanning..."
+msgstr "검색하는 중..."
+
+#: WizFileMain.pas:994
+msgid "Folders"
+msgstr "폴더"
+
+#: WizFileMain.pas:994 WizFileMain.pas:4172
+msgid "Files"
+msgstr "파일"
+
+#: WizFileMain.pas:1064
+msgid "GB"
+msgstr "GB"
+
+#: WizFileMain.pas:1067
+msgid "MB"
+msgstr "MB"
+
+#: WizFileMain.pas:1070
+msgid "KB"
+msgstr "KB"
+
+#: WizFileMain.pas:1075
+msgid "Bytes"
+msgstr "Bytes"
+
+#: WizFileMain.pas:1136
+msgid "Selected Files"
+msgstr "선택한 파일"
+
+#: WizFileMain.pas:1136 WizFileMain.pas:3398
+msgid "Total Size"
+msgstr "전체 크기"
+
+#: WizFileMain.pas:1212 WizFileMain.pas:1337 WizFileMain.pas:1584
+msgid "You are about to open"
+msgstr "열려고 하는 게"
+
+#: WizFileMain.pas:1213
+msgid "Command Prompt windows - are you sure?"
+msgstr "명령 프롬프트 창이 맞나요?"
+
+#: WizFileMain.pas:1338
+msgid "Explorer windows - are you sure?"
+msgstr "탐색기 창이 맞나요?"
+
+#: WizFileMain.pas:1585
+msgid "files - are you sure?"
+msgstr "개 파일입니다.  확실한가요?"
+
+#. FileName := FDir;
+#: WizFileMain.pas:1706 WizFileMain.pas:1721
+msgid "Select Folder"
+msgstr "폴더 선택"
+
+#. YMMV
+#: WizFileMain.pas:1708
+msgid "Select"
+msgstr "선택"
+
+#. we have an update!
+#: WizFileMain.pas:2310
+msgid "An update is available"
+msgstr "업데이트 사용 가능"
+
+#: WizFileMain.pas:2311
+msgid "Click on the \"View Update\" button to learn more."
+msgstr "더 알아보려면, '업데이트 보기' 버튼을 누르세요."
+
+#. if tag set then display error if any
+#: WizFileMain.pas:2318
+msgid "No update found."
+msgstr "새로운 업데이트가 없습니다! 현재 버전이 최신 버전입니다."
+
+#. if tag set then display error if any
+#: WizFileMain.pas:2330
+msgid "Error checking for updates:"
+msgstr "업데이트 확인 중 오류 발생:"
+
+#: WizFileMain.pas:2716
+msgid "64 bit"
+msgstr "64 bit"
+
+#: WizFileMain.pas:2718
+msgid "32 bit"
+msgstr "32 bit"
+
+#: WizFileMain.pas:3192
+msgid "Loading file list..."
+msgstr "파일 목록을 불러오는 중..."
+
+#. if TotFilesNum <> 0 then
+#: WizFileMain.pas:3397
+msgid "files"
+msgstr "개 파일,"
+
+#: WizFileMain.pas:4121
+msgid "File"
+msgstr "파일"
+
+#: WizFileMain.pas:4122
+msgid "Options"
+msgstr "옵션"
+
+#: WizFileMain.pas:4123 WizFileMain.pas:4151
+msgid "Refresh"
+msgstr "새로 고침"
+
+#: WizFileMain.pas:4124
+msgid "New Instance"
+msgstr "새 인스턴스"
+
+#: WizFileMain.pas:4125
+msgid "Explore Folder"
+msgstr "폴더 탐색"
+
+#: WizFileMain.pas:4126
+msgid "Command Prompt Here"
+msgstr "여기에서 명령 프롬프트 열기"
+
+#: WizFileMain.pas:4127
+msgid "Copy Path"
+msgstr "경로 복사"
+
+#: WizFileMain.pas:4128
+msgid "Delete (to Recycle Bin)"
+msgstr "삭제 (휴지통...)"
+
+#: WizFileMain.pas:4129
+msgid "Delete (No undelete possible)"
+msgstr "삭제 (복구 불가)"
+
+#: WizFileMain.pas:4130
+msgid "Exit"
+msgstr "끝내기"
+
+#: WizFileMain.pas:4132
+msgid "Display Dynamic values"
+msgstr "동적 값 표시"
+
+#: WizFileMain.pas:4133
+msgid "Display Byte values"
+msgstr "Byte 값 표시"
+
+#: WizFileMain.pas:4134
+msgid "Display KB values"
+msgstr "KB 값 표시"
+
+#: WizFileMain.pas:4135
+msgid "Display MB values"
+msgstr "MB 값 표시"
+
+#: WizFileMain.pas:4136
+msgid "Display GB values"
+msgstr "GB 값 표시"
+
+#: WizFileMain.pas:4146
+msgid "View Update"
+msgstr "업데이트 보기"
+
+#: WizFileMain.pas:4147
+msgid "Dismiss"
+msgstr "취소"
+
+#: WizFileMain.pas:4148
+msgid "Check for updates"
+msgstr "업데이트 확인"
+
+#: WizFileMain.pas:4149
+msgid "Check for updates now"
+msgstr "지금 업데이트 확인"
+
+#: WizFileMain.pas:4152
+msgid "Cancel Scan"
+msgstr "검색 취소"
+
+#: WizFileMain.pas:4175
+msgid "Clear"
+msgstr "지우기"
+
+#: WizFileMain.pas:4176
+msgid "Match file name only"
+msgstr "파일 이름만 일치"
+
+#: WizFileMain.pas:4177
+msgid "(Fast)"
+msgstr "(빠름)"
+
+#: WizFileMain.pas:4178
+msgid "Match entire path"
+msgstr "전체 경로 일치"
+
+#: WizFileMain.pas:4179
+msgid "(Warning: can be slow!)"
+msgstr "(경고: 느려질 수 있습니다!)"
+
+#: WizFileMain.pas:4180
+msgid "Max files to display:"
+msgstr "표시할 최대 파일 개수:"
+
+#: WizFileMain.pas:4182
+msgid "(Selecting ALL can be very slow!)"
+msgstr "('모두'를 선택하면, 매우 느려질 수 있습니다!)"
+
+#: WizFileMain.pas:4184
+msgid "ALL"
+msgstr "모두"
+
+#: WizFileMain.pas:4189
+msgid "File Name"
+msgstr "파일 이름"
+
+#: WizFileMain.pas:4190
+msgid "Path"
+msgstr "경로"
+
+#: WizFileMain.pas:4191
+msgid "Size"
+msgstr "크기"
+
+#: WizFileMain.pas:4192
+msgid "Allocated"
+msgstr "할당된 크기"
+
+#: WizFileMain.pas:4193
+msgid "Modified"
+msgstr "수정한 날자"
+
+#: WizFileMain.pas:4194
+msgid "Attributes"
+msgstr "속성"
+
+#: WizFileMain.pas:4196
+msgid "About"
+msgstr "정보"
+
+#: WizFileMain.pas:4199
+msgid "If you use WizFile commercially or you'd just like to support the freeware community then please make a donation by clicking on the Donate button at the top right of the screen. Thank you! :)"
+msgstr "WizFile을 상업적으로 사용하거나 프리웨어 커뮤니티를 지원하고 싶으시면 화면 오른쪽 상단에 있는 기부 버튼을 눌러 기부를 해주세요. 감사합니다! :)"
+
+#: WizFileMain.pas:4201
+msgid "What is WizFile?"
+msgstr "WizFile이란?"
+
+#: WizFileMain.pas:4202
+msgid "WizFile is a very fast file search utility that can find files on your hard drive almost instantly."
+msgstr "WizFile은 하드 드라이브에 있는 파일을 거의 즉시 찾을 수 있는 매우 빠른 파일 검색 유틸리티입니다."
+
+#: WizFileMain.pas:4203
+msgid "The entire file system can be quickly sorted by name, size or date."
+msgstr "전체 파일 시스템을 이름, 크기 또는 날짜별로 빠르게 정렬 할 수 있습니다."
+
+#: WizFileMain.pas:4207
+msgid "What makes WizFile so fast?"
+msgstr "WizFile이 그렇게 빠른 이유는?"
+
+#: WizFileMain.pas:4209
+msgid "When scanning NTFS formatted hard drives (most modern hard drives use this format), WizFile reads the hard drive's Master File Table (MFT) directly from the disk."
+msgstr "NTFS로 포맷된 하드 드라이브를 검색할 때(대부분의 최신 하드 드라이브는 이 형식을 사용) WizFile은 디스크에서 직접 하드 드라이브의 MFT(마스터 파일 테이블)를 읽습니다."
+
+#: WizFileMain.pas:4210
+msgid "The MFT is a special hidden file used by the NTFS file system to keep track of all files and folders on a hard drive. Scanning for files this way completely bypasses the operating system (Windows) and provides a huge performance boost."
+msgstr "MFT는 NTFS 파일 시스템에서 하드 드라이브의 모든 파일과 폴더를 추적하는 데 사용하는 특별한 숨김 파일입니다. 이 방법으로 파일을 검색하면 운영 체제(Windows)를 완전히 우회하고 성능이 크게 향상됩니다."
+
+#: WizFileMain.pas:4212
+msgid "WizFile currently only supports NTFS formatted hard drives."
+msgstr "WizFile은 현재 NTFS 형식의 하드 드라이브만 지원합니다."
+
+#: WizFileMain.pas:4214
+msgid "Please visit the Antibody Software website for more great software, such as:"
+msgstr "다음과 같은 멋진 소프트웨어를 보려면 Antibody Software 웹사이트를 방문해보세요:"
+
+#: WizFileMain.pas:4215 WizFileMain.pas:4219
+msgid "(click for more information)"
+msgstr "(자세한 내용을 보려면 클릭)"
+
+#: WizFileMain.pas:4216
+msgid "A powerful yet easy to use web gallery downloading tool. It supports most of the popular image hosting sites (such as flickr, facebook, Google image search, imgur, deviantart etc.)."
+msgstr "강력하면서도 사용하기 쉬운 웹 갤러리 다운로드 도구입니다. 인기있는 이미지 호스팅 사이트(예: flickr, facebook, Google 이미지 검색, imgur, deviantart 등)의 대부분을 지원합니다."
+
+#: WizFileMain.pas:4217
+msgid "It doesn't require any complicated setup or project files - it just works."
+msgstr "어떤 복잡한 설정이나 프로젝트 파일도 필요치 않고, 그냥 작동합니다."
+
+#: WizFileMain.pas:4220
+msgid "A keyboard enhancement utility that makes it easy to type accented and other special Unicode characters on a standard US/UK keyboard using easy to remember keyboard shortcuts."
+msgstr "기억하기 쉬운 키보드 단축키를 사용하여 표준 US/UK 키보드에서 악센트 부호 및 기타 특수 유니코드 문자를 쉽게 입력할 수 있도록 하는 키보드 향상 유틸리티입니다."
+
+#: WizFileMain.pas:4221
+msgid "For example, to type an à (a with grave accent), you press Ctrl+` then press a. These shortcuts work from any Windows application."
+msgstr "예를 들어, à(억음 악센트)를 입력하려면, a를 누르는 대신 Ctrl+`(을)를 누릅니다. 이러한 단축키는 모든 Windows 응용 프로그램에서 작동합니다."
+
+#. btnDonate.Hint := _( 'Help support WizFile development by making a donation' );
+#: WizFileMain.pas:4224
+msgid "Help support WizFile development by making a donation"
+msgstr "기부하여 WizFile 개발을 지원해 주세요"
+
+#: WizFileMain.pas:4225
+msgid "(You can hide the Donate button by making a donation)"
+msgstr "(기부하면 기부 버튼을 숨길 수 있어요)"
+
+#: WizFileMain.pas:4228 WizFileMain.pas:4229
+msgid "Select Drives"
+msgstr "드라이브 선택"
+
+msgid "Scan"
+msgstr "검색"
+
+#: WizFileMain.pas:4543
+msgid "Rescan Drives"
+msgstr "드라이브 다시 검사"
+
+#: WizFileMain.pas:4578
+msgid "No matching files"
+msgstr "일치하는 파일 없음"
+
+msgid "Start with Windows"
+msgstr "Windows 시작 시 실행"
+
+#: WizFileMain.pas:4836
+msgid "Rename"
+msgstr "이름 바꾸기"
+
+#: WizFileMain.pas:4837
+msgid "Monitor file system for changes"
+msgstr "파일 시스템 변경 모니터링"
+
+#: WizFileMain.pas:4838
+msgid "Minimize to tray when closed"
+msgstr "닫을 때 트레이로 최소화"
+
+msgid "Add Folder"
+msgstr "폴더 추가"
+
+msgid "Auto scan USB drives when connected"
+msgstr "연결 시 USB 드라이브 자동 검색"
+
+msgid "Remove Folder"
+msgstr "폴더 제거"
+
+#: "<drive/folder>" is included within
+msgid "is included within"
+msgstr "is included within"
+
+msgid "They cannot both be selected."
+msgstr "둘 다 선택할 수 없습니다."
+
+msgid "Filters"
+msgstr "필터"
+
+msgid "Filter Name"
+msgstr "파일 이름"
+
+msgid "Filter"
+msgstr "필터"
+
+msgid "Add"
+msgstr "추가"
+
+msgid "Edit"
+msgstr "편집"
+
+msgid "Remove"
+msgstr "제거"
+
+msgid "Reset"
+msgstr "재설정"
+
+msgid "Audio"
+msgstr "오디오"
+
+msgid "Video"
+msgstr "비디오"
+
+msgid "Image"
+msgstr "이미지"
+
+msgid "Compressed"
+msgstr "압축됨"
+
+msgid "Document"
+msgstr "문서"
+
+msgid "Executable"
+msgstr "실행 파일"
+
+msgid "Monitor folder size"
+msgstr "폴더 크기 모니터링"
+
+msgid "Clear search when minimized"
+msgstr "최소화 시 검색 결과 지우기"
+
+msgid "<ALL TYPES>"
+msgstr "<모든 유형>"
+
+msgid "<ALL SIZES>"
+msgstr "<모든 크기>"
+
+msgid "Gigantic (>4GB)"
+msgstr "최대 큰 (>4GB)"
+
+msgid "Huge (1-4GB)"
+msgstr "매우 큰 (1-4GB)"
+
+msgid "Large (128MB - 1GB)"
+msgstr "큰 (128MB - 1GB)"
+
+msgid "Medium (1-128MB)"
+msgstr "보통 (1-128MB)"
+
+msgid "Small (16KB - 1MB)"
+msgstr "작은 (16KB - 1MB)"
+
+msgid "Tiny (0-16KB)"
+msgstr "매우 작은 (0-16KB)"
+
+msgid "Empty (0KB)"
+msgstr "빈 (0KB)"
+
+msgid "<ALL TIMES>"
+msgstr "<모든 시간>"
+
+msgid "Today"
+msgstr "오늘"
+
+msgid "Last 7 days"
+msgstr "지난 7일"
+
+msgid "Last 14 days"
+msgstr "지난 14일"
+
+msgid "Last 30 days"
+msgstr "지난 30일"
+
+msgid "30-90 days old"
+msgstr "30-90일 이전"
+
+msgid "90+ days old"
+msgstr "90+일 이전"
+
+msgid "Launch applications as administrator"
+msgstr "관리자 권한으로 프로그램 실행"
+
+msgid "UI Theme"
+msgstr "UI 테마"
+
+msgid "Auto"
+msgstr "자동"
+
+msgid "Light"
+msgstr "밝은 테마"
+
+msgid "Dark"
+msgstr "짙은 테마"
+
+msgid "Clear and Reset Filters"
+msgstr "필터 지우기 및 재설정"
+
+msgid "Windows Explorer context menu"
+msgstr "Windows 탐색기 컨텍스트 메뉴"
+
+msgid "Cut"
+msgstr "잘라내기"
+
+msgid "Copy"
+msgstr "복사"

@@ -1,0 +1,23 @@
+FIntDebugTextureManagerSkipMips -1
+FFlagDebugSkyGray True
+-------------------------------------
+FFlagDebugDisplayFPS True
+-------------------------------------
+Grass
+{
+  "FIntFRMMinGrassDistance": 0,
+  "FIntFRMMaxGrassDistance": 0,
+  "FIntRenderGrassDetailStrands": 0,
+  "FIntRenderGrassHeightScaler": 0
+}
+-------------------------------------
+Graphics
+{
+  "DFIntDebugFRMQualityLevelOverride": 1
+}
+--------------------------------------
+{
+  "FIntDebugForceMSAASamples": 0
+}
+--------------------------------------
+https://github.com/catb0x/Roblox-Potato-FFlags

@@ -1,0 +1,34 @@
+2024-04-18 19:49:47,083 [1] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-04-19 17:53:53,622 [18] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-04-20 09:09:16,832 [20] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-04-20 15:16:29,398 [19] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-04-20 15:17:29,384 [29] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-04-20 15:18:08,931 [17] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-04-20 15:18:30,420 [29] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-04-20 15:19:23,473 [13] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-04-20 15:19:44,294 [29] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-04-20 16:12:09,386 [23] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-04-20 16:16:13,066 [54] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-04-21 15:41:02,956 [20] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-04-21 19:42:57,747 [21] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-05-07 20:24:58,709 [17] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-05-07 20:26:07,541 [29] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-05-07 20:26:07,933 [30] ERROR Account Manager - Forbidden Asset Image request failed
+Error: 
+Content: {"errors":[{"code":0,"message":"User is moderated"}]}
+2024-05-09 16:27:23,835 [5] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-05-09 16:37:33,774 [21] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-05-09 17:05:56,599 [21] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-05-11 15:05:05,345 [43] INFO  Account Manager - Attempting to refresh LeoNarvestad124 | Last Use: 19.04.2024 17:12:09
+2024-05-13 16:21:17,933 [21] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-06-09 11:47:05,624 [20] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-06-09 11:47:06,461 [16] ERROR Account Manager - Forbidden Asset Image request failed
+Error: 
+Content: {"errors":[{"code":0,"message":"User is moderated"}]}
+2024-06-09 11:47:26,139 [21] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-06-12 17:14:38,693 [21] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-06-12 17:16:26,843 [6] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-07-11 20:41:36,386 [17] ERROR Account Manager - Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-08-02 10:30:00,825 [1] ERROR Account Manager - Not applying 773 error fix | Cookies File Exists: False | User No Fix File Exists: False
+2024-08-03 14:53:26,953 [32] INFO  Account Manager - Attempting to refresh LeoNarvestad124 | Last Use: 11.05.2024 15:05:05
+2024-08-03 14:53:33,294 [36] INFO  Account Manager - Attempting to refresh Dasha05833 | Last Use: 11.07.2024 20:41:36
